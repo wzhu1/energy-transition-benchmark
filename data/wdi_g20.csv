@@ -1,0 +1,2218 @@
+iso3,country,year,indicator,value
+ARG,Argentina,2000,co2_per_capita,3.67485781688948
+ARG,Argentina,2001,co2_per_capita,3.49042420795313
+ARG,Argentina,2002,co2_per_capita,3.26103662726385
+ARG,Argentina,2003,co2_per_capita,3.51848864736106
+ARG,Argentina,2004,co2_per_capita,3.85579719412006
+ARG,Argentina,2005,co2_per_capita,3.91742679391727
+ARG,Argentina,2006,co2_per_capita,4.1027920897206
+ARG,Argentina,2007,co2_per_capita,4.32534235715168
+ARG,Argentina,2008,co2_per_capita,4.43359004127929
+ARG,Argentina,2009,co2_per_capita,4.03429401041948
+ARG,Argentina,2010,co2_per_capita,4.2945461050427
+ARG,Argentina,2011,co2_per_capita,4.42921822947444
+ARG,Argentina,2012,co2_per_capita,4.47886128746974
+ARG,Argentina,2013,co2_per_capita,4.53658672333476
+ARG,Argentina,2014,co2_per_capita,4.41674615124171
+ARG,Argentina,2015,co2_per_capita,4.51258701954955
+ARG,Argentina,2016,co2_per_capita,4.4223010437306
+ARG,Argentina,2017,co2_per_capita,4.32102910494897
+ARG,Argentina,2018,co2_per_capita,4.25075806940885
+ARG,Argentina,2019,co2_per_capita,4.07504069344001
+ARG,Argentina,2020,co2_per_capita,3.72002854932287
+ARG,Argentina,2021,co2_per_capita,4.09769704597303
+ARG,Argentina,2022,co2_per_capita,4.2953116708492
+ARG,Argentina,2023,co2_per_capita,4.16990486776205
+ARG,Argentina,2024,co2_per_capita,4.01066531653131
+ARG,Argentina,2000,energy_intensity,3.69
+ARG,Argentina,2001,energy_intensity,3.59
+ARG,Argentina,2002,energy_intensity,3.98
+ARG,Argentina,2003,energy_intensity,3.96
+ARG,Argentina,2004,energy_intensity,4.04
+ARG,Argentina,2005,energy_intensity,3.68
+ARG,Argentina,2006,energy_intensity,3.58
+ARG,Argentina,2007,energy_intensity,3.44
+ARG,Argentina,2008,energy_intensity,3.42
+ARG,Argentina,2009,energy_intensity,3.35
+ARG,Argentina,2010,energy_intensity,3.26
+ARG,Argentina,2011,energy_intensity,3.18
+ARG,Argentina,2012,energy_intensity,3.3
+ARG,Argentina,2013,energy_intensity,3.31
+ARG,Argentina,2014,energy_intensity,3.4
+ARG,Argentina,2015,energy_intensity,3.36
+ARG,Argentina,2016,energy_intensity,3.41
+ARG,Argentina,2017,energy_intensity,3.32
+ARG,Argentina,2018,energy_intensity,3.31
+ARG,Argentina,2019,energy_intensity,3.35
+ARG,Argentina,2020,energy_intensity,3.46
+ARG,Argentina,2021,energy_intensity,3.39
+ARG,Argentina,2022,energy_intensity,3.29
+ARG,Argentina,2000,gdp_per_capita,22281.3814299958
+ARG,Argentina,2001,gdp_per_capita,21066.4581290433
+ARG,Argentina,2002,gdp_per_capita,18571.7020471274
+ARG,Argentina,2003,gdp_per_capita,20005.1385113465
+ARG,Argentina,2004,gdp_per_capita,21591.449396517
+ARG,Argentina,2005,gdp_per_capita,23262.4075792816
+ARG,Argentina,2006,gdp_per_capita,24877.2493922296
+ARG,Argentina,2007,gdp_per_capita,26850.6645932771
+ARG,Argentina,2008,gdp_per_capita,27658.4853446831
+ARG,Argentina,2009,gdp_per_capita,25747.1976809995
+ARG,Argentina,2010,gdp_per_capita,28056.2570212342
+ARG,Argentina,2011,gdp_per_capita,29425.7593876084
+ARG,Argentina,2012,gdp_per_capita,28825.9666865361
+ARG,Argentina,2013,gdp_per_capita,29227.6601818437
+ARG,Argentina,2014,gdp_per_capita,28200.8152571318
+ARG,Argentina,2015,gdp_per_capita,28669.2061336796
+ARG,Argentina,2016,gdp_per_capita,27802.1057201498
+ARG,Argentina,2017,gdp_per_capita,28334.904184742
+ARG,Argentina,2018,gdp_per_capita,27367.115094108
+ARG,Argentina,2019,gdp_per_capita,26629.5529419501
+ARG,Argentina,2020,gdp_per_capita,23877.0931404855
+ARG,Argentina,2021,gdp_per_capita,26300.274261175
+ARG,Argentina,2022,gdp_per_capita,27825.0273492567
+ARG,Argentina,2023,gdp_per_capita,27230.3968496682
+ARG,Argentina,2024,gdp_per_capita,26771.9657650571
+ARG,Argentina,2000,renewable_electricity,33.0317886599097
+ARG,Argentina,2001,renewable_electricity,41.617243827229
+ARG,Argentina,2002,renewable_electricity,43.2402458483541
+ARG,Argentina,2003,renewable_electricity,37.8812394109214
+ARG,Argentina,2004,renewable_electricity,31.5189022626871
+ARG,Argentina,2005,renewable_electricity,33.7205702994261
+ARG,Argentina,2006,renewable_electricity,34.7396865413772
+ARG,Argentina,2007,renewable_electricity,29.2267911400766
+ARG,Argentina,2008,renewable_electricity,27.4501463990749
+ARG,Argentina,2009,renewable_electricity,30.4953983718573
+ARG,Argentina,2010,renewable_electricity,28.633480141253
+ARG,Argentina,2011,renewable_electricity,26.3898274983398
+ARG,Argentina,2012,renewable_electricity,24.2839965308912
+ARG,Argentina,2013,renewable_electricity,26.3673843991769
+ARG,Argentina,2014,renewable_electricity,25.6716891813878
+ARG,Argentina,2015,renewable_electricity,24.4205243146988
+ARG,Argentina,2016,renewable_electricity,22.7375832088032
+ARG,Argentina,2017,renewable_electricity,24.5224932026036
+ARG,Argentina,2018,renewable_electricity,25.0378814713896
+ARG,Argentina,2019,renewable_electricity,26.5099136541149
+ARG,Argentina,2020,renewable_electricity,27.2624493230322
+ARG,Argentina,2021,renewable_electricity,25.5361113468556
+ARG,Argentina,2000,renewable_share,9.8
+ARG,Argentina,2001,renewable_share,11.5
+ARG,Argentina,2002,renewable_share,11.6
+ARG,Argentina,2003,renewable_share,10.8
+ARG,Argentina,2004,renewable_share,9.3
+ARG,Argentina,2005,renewable_share,9.6
+ARG,Argentina,2006,renewable_share,9.2
+ARG,Argentina,2007,renewable_share,7.7
+ARG,Argentina,2008,renewable_share,7.7
+ARG,Argentina,2009,renewable_share,8.6
+ARG,Argentina,2010,renewable_share,8.8
+ARG,Argentina,2011,renewable_share,8.8
+ARG,Argentina,2012,renewable_share,8.6
+ARG,Argentina,2013,renewable_share,8.9
+ARG,Argentina,2014,renewable_share,9.8
+ARG,Argentina,2015,renewable_share,9.4
+ARG,Argentina,2016,renewable_share,9.4
+ARG,Argentina,2017,renewable_share,10.4
+ARG,Argentina,2018,renewable_share,10.5
+ARG,Argentina,2019,renewable_share,10.7
+ARG,Argentina,2020,renewable_share,9.8
+ARG,Argentina,2021,renewable_share,9.2
+AUS,Australia,2000,co2_per_capita,18.5978917642845
+AUS,Australia,2001,co2_per_capita,18.6995326153179
+AUS,Australia,2002,co2_per_capita,18.9093269577501
+AUS,Australia,2003,co2_per_capita,18.6676694689453
+AUS,Australia,2004,co2_per_capita,19.1634087908315
+AUS,Australia,2005,co2_per_capita,19.0378039300894
+AUS,Australia,2006,co2_per_capita,19.0793285754815
+AUS,Australia,2007,co2_per_capita,19.2389222350972
+AUS,Australia,2008,co2_per_capita,19.02811960112
+AUS,Australia,2009,co2_per_capita,18.9151698120932
+AUS,Australia,2010,co2_per_capita,18.8509537372201
+AUS,Australia,2011,co2_per_capita,18.480821685778
+AUS,Australia,2012,co2_per_capita,18.1834489375025
+AUS,Australia,2013,co2_per_capita,17.5432435542019
+AUS,Australia,2014,co2_per_capita,16.8873574131124
+AUS,Australia,2015,co2_per_capita,16.8219551608068
+AUS,Australia,2016,co2_per_capita,16.8911897350521
+AUS,Australia,2017,co2_per_capita,16.7209445382487
+AUS,Australia,2018,co2_per_capita,16.3939979308791
+AUS,Australia,2019,co2_per_capita,16.1007065925773
+AUS,Australia,2020,co2_per_capita,15.3043785143331
+AUS,Australia,2021,co2_per_capita,14.9787241100123
+AUS,Australia,2022,co2_per_capita,14.530502863688
+AUS,Australia,2023,co2_per_capita,14.1596700845561
+AUS,Australia,2024,co2_per_capita,14.0986639619808
+AUS,Australia,2000,energy_intensity,6.0
+AUS,Australia,2001,energy_intensity,5.71
+AUS,Australia,2002,energy_intensity,5.54
+AUS,Australia,2003,energy_intensity,5.57
+AUS,Australia,2004,energy_intensity,5.45
+AUS,Australia,2005,energy_intensity,5.33
+AUS,Australia,2006,energy_intensity,5.4
+AUS,Australia,2007,energy_intensity,5.31
+AUS,Australia,2008,energy_intensity,5.38
+AUS,Australia,2009,energy_intensity,5.28
+AUS,Australia,2010,energy_intensity,5.17
+AUS,Australia,2011,energy_intensity,5.06
+AUS,Australia,2012,energy_intensity,4.82
+AUS,Australia,2013,energy_intensity,4.79
+AUS,Australia,2014,energy_intensity,4.64
+AUS,Australia,2015,energy_intensity,4.53
+AUS,Australia,2016,energy_intensity,4.4
+AUS,Australia,2017,energy_intensity,4.46
+AUS,Australia,2018,energy_intensity,4.37
+AUS,Australia,2019,energy_intensity,4.36
+AUS,Australia,2020,energy_intensity,4.44
+AUS,Australia,2021,energy_intensity,4.1
+AUS,Australia,2022,energy_intensity,4.12
+AUS,Australia,2000,gdp_per_capita,45099.0752097084
+AUS,Australia,2001,gdp_per_capita,45428.2000837579
+AUS,Australia,2002,gdp_per_capita,46688.3947760633
+AUS,Australia,2003,gdp_per_capita,47581.2285345879
+AUS,Australia,2004,gdp_per_capita,49061.2761503925
+AUS,Australia,2005,gdp_per_capita,49997.0664953941
+AUS,Australia,2006,gdp_per_capita,50693.7248649798
+AUS,Australia,2007,gdp_per_capita,51663.2403953881
+AUS,Australia,2008,gdp_per_capita,52473.3819160773
+AUS,Australia,2009,gdp_per_capita,52407.9115378584
+AUS,Australia,2010,gdp_per_capita,52739.2681556133
+AUS,Australia,2011,gdp_per_capita,53257.0473237603
+AUS,Australia,2012,gdp_per_capita,54403.8836902433
+AUS,Australia,2013,gdp_per_capita,54895.0052588984
+AUS,Australia,2014,gdp_per_capita,55489.068844146
+AUS,Australia,2015,gdp_per_capita,55879.9958817103
+AUS,Australia,2016,gdp_per_capita,56529.951824687
+AUS,Australia,2017,gdp_per_capita,56881.8569859104
+AUS,Australia,2018,gdp_per_capita,57647.8455068105
+AUS,Australia,2019,gdp_per_capita,58048.6188420831
+AUS,Australia,2020,gdp_per_capita,57260.4650530108
+AUS,Australia,2021,gdp_per_capita,58327.4146842325
+AUS,Australia,2022,gdp_per_capita,60029.1329190733
+AUS,Australia,2023,gdp_per_capita,60684.9596204883
+AUS,Australia,2024,gdp_per_capita,60309.5831772339
+AUS,Australia,2000,renewable_electricity,8.53855887053809
+AUS,Australia,2001,renewable_electricity,8.24987201460146
+AUS,Australia,2002,renewable_electricity,7.93263167146404
+AUS,Australia,2003,renewable_electricity,8.53031222543274
+AUS,Australia,2004,renewable_electricity,8.27551940604288
+AUS,Australia,2005,renewable_electricity,8.92460091843429
+AUS,Australia,2006,renewable_electricity,9.33943220375381
+AUS,Australia,2007,renewable_electricity,8.71494548789465
+AUS,Australia,2008,renewable_electricity,8.17116943027123
+AUS,Australia,2009,renewable_electricity,7.52290842272387
+AUS,Australia,2010,renewable_electricity,8.61549665361888
+AUS,Australia,2011,renewable_electricity,10.3928534854226
+AUS,Australia,2012,renewable_electricity,10.5266932270916
+AUS,Australia,2013,renewable_electricity,13.1701197247173
+AUS,Australia,2014,renewable_electricity,14.6168601716305
+AUS,Australia,2015,renewable_electricity,13.3253353778438
+AUS,Australia,2016,renewable_electricity,14.5835767304562
+AUS,Australia,2017,renewable_electricity,15.6784702494681
+AUS,Australia,2018,renewable_electricity,17.0970979406717
+AUS,Australia,2019,renewable_electricity,19.7037412982055
+AUS,Australia,2020,renewable_electricity,22.6002911252065
+AUS,Australia,2021,renewable_electricity,26.6608674695166
+AUS,Australia,2000,renewable_share,8.4
+AUS,Australia,2001,renewable_share,8.4
+AUS,Australia,2002,renewable_share,8.7
+AUS,Australia,2003,renewable_share,7.2
+AUS,Australia,2004,renewable_share,6.7
+AUS,Australia,2005,renewable_share,6.7
+AUS,Australia,2006,renewable_share,6.8
+AUS,Australia,2007,renewable_share,7.0
+AUS,Australia,2008,renewable_share,6.8
+AUS,Australia,2009,renewable_share,7.1
+AUS,Australia,2010,renewable_share,8.2
+AUS,Australia,2011,renewable_share,8.3
+AUS,Australia,2012,renewable_share,8.3
+AUS,Australia,2013,renewable_share,9.2
+AUS,Australia,2014,renewable_share,9.3
+AUS,Australia,2015,renewable_share,9.4
+AUS,Australia,2016,renewable_share,9.6
+AUS,Australia,2017,renewable_share,9.9
+AUS,Australia,2018,renewable_share,9.8
+AUS,Australia,2019,renewable_share,10.3
+AUS,Australia,2020,renewable_share,11.2
+AUS,Australia,2021,renewable_share,12.3
+BRA,Brazil,2000,co2_per_capita,2.00787868943563
+BRA,Brazil,2001,co2_per_capita,1.9928207750233
+BRA,Brazil,2002,co2_per_capita,1.96879630651915
+BRA,Brazil,2003,co2_per_capita,1.91839410561756
+BRA,Brazil,2004,co2_per_capita,1.99978275095698
+BRA,Brazil,2005,co2_per_capita,1.99935674253319
+BRA,Brazil,2006,co2_per_capita,2.00204169117872
+BRA,Brazil,2007,co2_per_capita,2.08496718576573
+BRA,Brazil,2008,co2_per_capita,2.16839391882541
+BRA,Brazil,2009,co2_per_capita,2.00746250710986
+BRA,Brazil,2010,co2_per_capita,2.27112813109879
+BRA,Brazil,2011,co2_per_capita,2.37418967936326
+BRA,Brazil,2012,co2_per_capita,2.52901988702936
+BRA,Brazil,2013,co2_per_capita,2.63744450973958
+BRA,Brazil,2014,co2_per_capita,2.7310345760982
+BRA,Brazil,2015,co2_per_capita,2.56818858918394
+BRA,Brazil,2016,co2_per_capita,2.37533549789759
+BRA,Brazil,2017,co2_per_capita,2.41694955353585
+BRA,Brazil,2018,co2_per_capita,2.28562350357953
+BRA,Brazil,2019,co2_per_capita,2.25869881785082
+BRA,Brazil,2020,co2_per_capita,2.1466461829
+BRA,Brazil,2021,co2_per_capita,2.41580858865319
+BRA,Brazil,2022,co2_per_capita,2.27889577215227
+BRA,Brazil,2023,co2_per_capita,2.27447826989363
+BRA,Brazil,2024,co2_per_capita,2.31826466114939
+BRA,Brazil,2000,energy_intensity,3.89
+BRA,Brazil,2001,energy_intensity,3.9
+BRA,Brazil,2002,energy_intensity,3.89
+BRA,Brazil,2003,energy_intensity,3.91
+BRA,Brazil,2004,energy_intensity,3.91
+BRA,Brazil,2005,energy_intensity,3.88
+BRA,Brazil,2006,energy_intensity,3.86
+BRA,Brazil,2007,energy_intensity,3.85
+BRA,Brazil,2008,energy_intensity,3.87
+BRA,Brazil,2009,energy_intensity,3.74
+BRA,Brazil,2010,energy_intensity,3.85
+BRA,Brazil,2011,energy_intensity,3.75
+BRA,Brazil,2012,energy_intensity,3.82
+BRA,Brazil,2013,energy_intensity,3.88
+BRA,Brazil,2014,energy_intensity,3.98
+BRA,Brazil,2015,energy_intensity,4.05
+BRA,Brazil,2016,energy_intensity,4.03
+BRA,Brazil,2017,energy_intensity,4.06
+BRA,Brazil,2018,energy_intensity,3.93
+BRA,Brazil,2019,energy_intensity,3.95
+BRA,Brazil,2020,energy_intensity,4.0
+BRA,Brazil,2021,energy_intensity,3.96
+BRA,Brazil,2022,energy_intensity,3.87
+BRA,Brazil,2000,gdp_per_capita,14005.3471874231
+BRA,Brazil,2001,gdp_per_capita,14016.1313772236
+BRA,Brazil,2002,gdp_per_capita,14265.9048770292
+BRA,Brazil,2003,gdp_per_capita,14259.3664089322
+BRA,Brazil,2004,gdp_per_capita,14911.2609608592
+BRA,Brazil,2005,gdp_per_capita,15221.0138281541
+BRA,Brazil,2006,gdp_per_capita,15657.4795716983
+BRA,Brazil,2007,gdp_per_capita,16440.583740032
+BRA,Brazil,2008,gdp_per_capita,17113.3679822643
+BRA,Brazil,2009,gdp_per_capita,16939.4407810328
+BRA,Brazil,2010,gdp_per_capita,18062.1581103659
+BRA,Brazil,2011,gdp_per_capita,18627.8104529397
+BRA,Brazil,2012,gdp_per_capita,18832.2195527075
+BRA,Brazil,2013,gdp_per_capita,19241.5059815726
+BRA,Brazil,2014,gdp_per_capita,19183.172744636
+BRA,Brazil,2015,gdp_per_capita,18357.0690617991
+BRA,Brazil,2016,gdp_per_capita,17620.9272434136
+BRA,Brazil,2017,gdp_per_capita,17724.4799577784
+BRA,Brazil,2018,gdp_per_capita,17917.7492123359
+BRA,Brazil,2019,gdp_per_capita,18018.6209151518
+BRA,Brazil,2020,gdp_per_capita,17327.5157249466
+BRA,Brazil,2021,gdp_per_capita,18075.7060049068
+BRA,Brazil,2022,gdp_per_capita,18554.0461828566
+BRA,Brazil,2023,gdp_per_capita,19079.8122134028
+BRA,Brazil,2024,gdp_per_capita,19652.365499171
+BRA,Brazil,2000,renewable_electricity,89.4957553523831
+BRA,Brazil,2001,renewable_electricity,84.2906139272103
+BRA,Brazil,2002,renewable_electricity,85.7402993019374
+BRA,Brazil,2003,renewable_electricity,87.163729383898
+BRA,Brazil,2004,renewable_electricity,86.0318464433105
+BRA,Brazil,2005,renewable_electricity,87.1374676515322
+BRA,Brazil,2006,renewable_electricity,86.7770122836764
+BRA,Brazil,2007,renewable_electricity,88.2273383848482
+BRA,Brazil,2008,renewable_electricity,84.334590890735
+BRA,Brazil,2009,renewable_electricity,89.0545459226252
+BRA,Brazil,2010,renewable_electricity,84.8163978802163
+BRA,Brazil,2011,renewable_electricity,87.1951774964881
+BRA,Brazil,2012,renewable_electricity,82.577658259127
+BRA,Brazil,2013,renewable_electricity,76.8252008450734
+BRA,Brazil,2014,renewable_electricity,72.5770927252724
+BRA,Brazil,2015,renewable_electricity,73.5400962658205
+BRA,Brazil,2016,renewable_electricity,79.7128089556938
+BRA,Brazil,2017,renewable_electricity,78.4181545870035
+BRA,Brazil,2018,renewable_electricity,81.5730752318417
+BRA,Brazil,2019,renewable_electricity,81.4302357542747
+BRA,Brazil,2020,renewable_electricity,83.1761424000102
+BRA,Brazil,2021,renewable_electricity,77.3753492178891
+BRA,Brazil,2000,renewable_share,42.7
+BRA,Brazil,2001,renewable_share,41.3
+BRA,Brazil,2002,renewable_share,42.9
+BRA,Brazil,2003,renewable_share,45.1
+BRA,Brazil,2004,renewable_share,45.2
+BRA,Brazil,2005,renewable_share,46.1
+BRA,Brazil,2006,renewable_share,46.7
+BRA,Brazil,2007,renewable_share,47.2
+BRA,Brazil,2008,renewable_share,47.0
+BRA,Brazil,2009,renewable_share,48.9
+BRA,Brazil,2010,renewable_share,46.8
+BRA,Brazil,2011,renewable_share,45.2
+BRA,Brazil,2012,renewable_share,43.5
+BRA,Brazil,2013,renewable_share,42.3
+BRA,Brazil,2014,renewable_share,41.7
+BRA,Brazil,2015,renewable_share,43.7
+BRA,Brazil,2016,renewable_share,45.4
+BRA,Brazil,2017,renewable_share,45.3
+BRA,Brazil,2018,renewable_share,46.9
+BRA,Brazil,2019,renewable_share,47.5
+BRA,Brazil,2020,renewable_share,50.0
+BRA,Brazil,2021,renewable_share,46.5
+CAN,Canada,2000,co2_per_capita,17.6990281801997
+CAN,Canada,2001,co2_per_capita,17.2263337035681
+CAN,Canada,2002,co2_per_capita,17.6683722055528
+CAN,Canada,2003,co2_per_capita,18.1301542885681
+CAN,Canada,2004,co2_per_capita,17.5256514747091
+CAN,Canada,2005,co2_per_capita,18.0601166179094
+CAN,Canada,2006,co2_per_capita,17.6443460330114
+CAN,Canada,2007,co2_per_capita,18.0804998989628
+CAN,Canada,2008,co2_per_capita,17.3072079421311
+CAN,Canada,2009,co2_per_capita,16.140062037934
+CAN,Canada,2010,co2_per_capita,16.5297747432196
+CAN,Canada,2011,co2_per_capita,16.7674945217889
+CAN,Canada,2012,co2_per_capita,16.3390529794046
+CAN,Canada,2013,co2_per_capita,16.396768369606
+CAN,Canada,2014,co2_per_capita,16.3774543965685
+CAN,Canada,2015,co2_per_capita,16.0870291468599
+CAN,Canada,2016,co2_per_capita,15.8982424179268
+CAN,Canada,2017,co2_per_capita,16.196245321702
+CAN,Canada,2018,co2_per_capita,16.5238820455635
+CAN,Canada,2019,co2_per_capita,16.190860373335
+CAN,Canada,2020,co2_per_capita,14.4219048812634
+CAN,Canada,2021,co2_per_capita,14.6897593568847
+CAN,Canada,2022,co2_per_capita,14.7839088196158
+CAN,Canada,2023,co2_per_capita,14.1600452924171
+CAN,Canada,2024,co2_per_capita,14.0072704088031
+CAN,Canada,2000,energy_intensity,8.27
+CAN,Canada,2001,energy_intensity,8.01
+CAN,Canada,2002,energy_intensity,7.79
+CAN,Canada,2003,energy_intensity,8.07
+CAN,Canada,2004,energy_intensity,7.96
+CAN,Canada,2005,energy_intensity,7.8
+CAN,Canada,2006,energy_intensity,7.72
+CAN,Canada,2007,energy_intensity,7.55
+CAN,Canada,2008,energy_intensity,7.29
+CAN,Canada,2009,energy_intensity,7.23
+CAN,Canada,2010,energy_intensity,7.02
+CAN,Canada,2011,energy_intensity,6.96
+CAN,Canada,2012,energy_intensity,6.88
+CAN,Canada,2013,energy_intensity,6.86
+CAN,Canada,2014,energy_intensity,6.84
+CAN,Canada,2015,energy_intensity,6.75
+CAN,Canada,2016,energy_intensity,6.96
+CAN,Canada,2017,energy_intensity,7.03
+CAN,Canada,2018,energy_intensity,6.94
+CAN,Canada,2019,energy_intensity,6.86
+CAN,Canada,2020,energy_intensity,6.73
+CAN,Canada,2021,energy_intensity,6.55
+CAN,Canada,2022,energy_intensity,6.44
+CAN,Canada,2000,gdp_per_capita,48399.2864445547
+CAN,Canada,2001,gdp_per_capita,48774.1483226516
+CAN,Canada,2002,gdp_per_capita,49694.9870914363
+CAN,Canada,2003,gdp_per_capita,50139.7664579994
+CAN,Canada,2004,gdp_per_capita,51210.6593966138
+CAN,Canada,2005,gdp_per_capita,52356.5371486354
+CAN,Canada,2006,gdp_per_capita,53195.7608573851
+CAN,Canada,2007,gdp_per_capita,53761.8407991685
+CAN,Canada,2008,gdp_per_capita,53711.6580329654
+CAN,Canada,2009,gdp_per_capita,51552.4020321975
+CAN,Canada,2010,gdp_per_capita,52558.4200617806
+CAN,Canada,2011,gdp_per_capita,53681.1084809345
+CAN,Canada,2012,gdp_per_capita,54034.7821680318
+CAN,Canada,2013,gdp_per_capita,54712.1568593677
+CAN,Canada,2014,gdp_per_capita,55723.4615652506
+CAN,Canada,2015,gdp_per_capita,55660.8455840759
+CAN,Canada,2016,gdp_per_capita,55606.1329948184
+CAN,Canada,2017,gdp_per_capita,56612.3062191777
+CAN,Canada,2018,gdp_per_capita,57337.4682870033
+CAN,Canada,2019,gdp_per_capita,57583.8230739204
+CAN,Canada,2020,gdp_per_capita,54092.8576890836
+CAN,Canada,2021,gdp_per_capita,56995.0952020711
+CAN,Canada,2022,gdp_per_capita,58583.1299860138
+CAN,Canada,2023,gdp_per_capita,58088.3778077995
+CAN,Canada,2024,gdp_per_capita,57534.0915185335
+CAN,Canada,2000,renewable_electricity,60.6190538229517
+CAN,Canada,2001,renewable_electricity,58.0524008446178
+CAN,Canada,2002,renewable_electricity,59.9003535306548
+CAN,Canada,2003,renewable_electricity,58.9264990164968
+CAN,Canada,2004,renewable_electricity,58.4529439190089
+CAN,Canada,2005,renewable_electricity,59.8555982828252
+CAN,Canada,2006,renewable_electricity,59.5620002719274
+CAN,Canada,2007,renewable_electricity,60.2476621533016
+CAN,Canada,2008,renewable_electricity,61.3290986200485
+CAN,Canada,2009,renewable_electricity,62.9637388659713
+CAN,Canada,2010,renewable_electricity,61.2394556876236
+CAN,Canada,2011,renewable_electricity,62.4604027184521
+CAN,Canada,2012,renewable_electricity,63.6371552837649
+CAN,Canada,2013,renewable_electricity,64.0759575040385
+CAN,Canada,2014,renewable_electricity,63.1954620280532
+CAN,Canada,2015,renewable_electricity,64.1242644713459
+CAN,Canada,2016,renewable_electricity,64.9753767870051
+CAN,Canada,2017,renewable_electricity,66.5646304151468
+CAN,Canada,2018,renewable_electricity,65.9483864114063
+CAN,Canada,2019,renewable_electricity,65.8791259309204
+CAN,Canada,2020,renewable_electricity,67.0564578594512
+CAN,Canada,2021,renewable_electricity,67.0163805768966
+CAN,Canada,2000,renewable_share,20.3
+CAN,Canada,2001,renewable_share,19.8
+CAN,Canada,2002,renewable_share,20.1
+CAN,Canada,2003,renewable_share,19.7
+CAN,Canada,2004,renewable_share,20.4
+CAN,Canada,2005,renewable_share,21.6
+CAN,Canada,2006,renewable_share,21.5
+CAN,Canada,2007,renewable_share,21.6
+CAN,Canada,2008,renewable_share,21.6
+CAN,Canada,2009,renewable_share,22.2
+CAN,Canada,2010,renewable_share,21.4
+CAN,Canada,2011,renewable_share,21.5
+CAN,Canada,2012,renewable_share,21.8
+CAN,Canada,2013,renewable_share,22.2
+CAN,Canada,2014,renewable_share,22.2
+CAN,Canada,2015,renewable_share,22.3
+CAN,Canada,2016,renewable_share,22.1
+CAN,Canada,2017,renewable_share,22.8
+CAN,Canada,2018,renewable_share,22.3
+CAN,Canada,2019,renewable_share,22.4
+CAN,Canada,2020,renewable_share,23.9
+CAN,Canada,2021,renewable_share,23.8
+CHN,China,2000,co2_per_capita,2.88907594771294
+CHN,China,2001,co2_per_capita,3.00747564571294
+CHN,China,2002,co2_per_capita,3.22795454545455
+CHN,China,2003,co2_per_capita,3.70467882645141
+CHN,China,2004,co2_per_capita,4.24069749050016
+CHN,China,2005,co2_per_capita,4.78299420120885
+CHN,China,2006,co2_per_capita,5.28052516361306
+CHN,China,2007,co2_per_capita,5.7076324565497
+CHN,China,2008,co2_per_capita,5.85225866357655
+CHN,China,2009,co2_per_capita,6.24909018523805
+CHN,China,2010,co2_per_capita,6.80718476794211
+CHN,China,2011,co2_per_capita,7.40185065816131
+CHN,China,2012,co2_per_capita,7.58441651466929
+CHN,China,2013,co2_per_capita,7.89327631231478
+CHN,China,2014,co2_per_capita,7.93164331637339
+CHN,China,2015,co2_per_capita,7.79057049265868
+CHN,China,2016,co2_per_capita,7.76322483949301
+CHN,China,2017,co2_per_capita,7.87802652170332
+CHN,China,2018,co2_per_capita,8.2177362485386
+CHN,China,2019,co2_per_capita,8.39147587098516
+CHN,China,2020,co2_per_capita,8.47858302033874
+CHN,China,2021,co2_per_capita,8.88715660313235
+CHN,China,2022,co2_per_capita,8.86482511020235
+CHN,China,2023,co2_per_capita,9.23027553501428
+CHN,China,2024,co2_per_capita,9.31508933799393
+CHN,China,2000,energy_intensity,10.91
+CHN,China,2001,energy_intensity,10.41
+CHN,China,2002,energy_intensity,10.14
+CHN,China,2003,energy_intensity,10.51
+CHN,China,2004,energy_intensity,10.87
+CHN,China,2005,energy_intensity,10.75
+CHN,China,2006,energy_intensity,10.44
+CHN,China,2007,energy_intensity,9.83
+CHN,China,2008,energy_intensity,9.21
+CHN,China,2009,energy_intensity,8.98
+CHN,China,2010,energy_intensity,8.96
+CHN,China,2011,energy_intensity,8.78
+CHN,China,2012,energy_intensity,8.43
+CHN,China,2013,energy_intensity,8.08
+CHN,China,2014,energy_intensity,7.71
+CHN,China,2015,energy_intensity,7.24
+CHN,China,2016,energy_intensity,6.74
+CHN,China,2017,energy_intensity,6.54
+CHN,China,2018,energy_intensity,6.42
+CHN,China,2019,energy_intensity,6.33
+CHN,China,2020,energy_intensity,6.4
+CHN,China,2021,energy_intensity,6.3
+CHN,China,2000,gdp_per_capita,4065.86707804429
+CHN,China,2001,gdp_per_capita,4372.43560608339
+CHN,China,2002,gdp_per_capita,4744.38182475307
+CHN,China,2003,gdp_per_capita,5191.78118308167
+CHN,China,2004,gdp_per_capita,5684.3881718733
+CHN,China,2005,gdp_per_capita,6298.29929808598
+CHN,China,2006,gdp_per_capita,7057.11131595304
+CHN,China,2007,gdp_per_capita,8013.78375739131
+CHN,China,2008,gdp_per_capita,8743.7020031299
+CHN,China,2009,gdp_per_capita,9518.68128351945
+CHN,China,2010,gdp_per_capita,10476.1525652407
+CHN,China,2011,gdp_per_capita,11404.9179835542
+CHN,China,2012,gdp_per_capita,12217.9343813101
+CHN,China,2013,gdp_per_capita,13080.8787864744
+CHN,China,2014,gdp_per_capita,13968.5187785922
+CHN,China,2015,gdp_per_capita,14857.1088234405
+CHN,China,2016,gdp_per_capita,15772.8372607502
+CHN,China,2017,gdp_per_capita,16758.0463976858
+CHN,China,2018,gdp_per_capita,17807.0490552244
+CHN,China,2019,gdp_per_capita,18820.5871645645
+CHN,China,2020,gdp_per_capita,19215.1012491012
+CHN,China,2021,gdp_per_capita,20843.2978347377
+CHN,China,2022,gdp_per_capita,21499.3125559757
+CHN,China,2023,gdp_per_capita,22687.2519534328
+CHN,China,2024,gdp_per_capita,23841.4769141817
+CHN,China,2000,renewable_electricity,16.6391375029689
+CHN,China,2001,renewable_electricity,18.9581214478014
+CHN,China,2002,renewable_electricity,17.6186164128829
+CHN,China,2003,renewable_electricity,15.0371010412115
+CHN,China,2004,renewable_electricity,16.2232487195383
+CHN,China,2005,renewable_electricity,16.1592699120884
+CHN,China,2006,renewable_electricity,15.5566024437238
+CHN,China,2007,renewable_electricity,15.2657979334449
+CHN,China,2008,renewable_electricity,17.6408195697663
+CHN,China,2009,renewable_electricity,17.8108790138305
+CHN,China,2010,renewable_electricity,18.7929868229344
+CHN,China,2011,renewable_electricity,16.836073329416
+CHN,China,2012,renewable_electricity,20.0980373624987
+CHN,China,2013,renewable_electricity,20.1334892653115
+CHN,China,2014,renewable_electricity,22.0557011175979
+CHN,China,2015,renewable_electricity,23.8649488788885
+CHN,China,2016,renewable_electricity,25.0520357144816
+CHN,China,2017,renewable_electricity,25.0386725537724
+CHN,China,2018,renewable_electricity,25.8127409492271
+CHN,China,2019,renewable_electricity,26.8897131191777
+CHN,China,2020,renewable_electricity,28.1119188277605
+CHN,China,2021,renewable_electricity,28.4280012326943
+CHN,China,2000,renewable_share,29.6
+CHN,China,2001,renewable_share,28.4
+CHN,China,2002,renewable_share,27.0
+CHN,China,2003,renewable_share,23.9
+CHN,China,2004,renewable_share,20.2
+CHN,China,2005,renewable_share,17.4
+CHN,China,2006,renewable_share,16.4
+CHN,China,2007,renewable_share,14.9
+CHN,China,2008,renewable_share,14.1
+CHN,China,2009,renewable_share,13.4
+CHN,China,2010,renewable_share,12.3
+CHN,China,2011,renewable_share,11.3
+CHN,China,2012,renewable_share,11.5
+CHN,China,2013,renewable_share,11.5
+CHN,China,2014,renewable_share,11.9
+CHN,China,2015,renewable_share,12.2
+CHN,China,2016,renewable_share,12.6
+CHN,China,2017,renewable_share,13.1
+CHN,China,2018,renewable_share,13.5
+CHN,China,2019,renewable_share,14.3
+CHN,China,2020,renewable_share,14.9
+CHN,China,2021,renewable_share,15.2
+DEU,Germany,2000,co2_per_capita,10.5993032021746
+DEU,Germany,2001,co2_per_capita,10.7525841705381
+DEU,Germany,2002,co2_per_capita,10.546202837135
+DEU,Germany,2003,co2_per_capita,10.6369632865784
+DEU,Germany,2004,co2_per_capita,10.4632650583049
+DEU,Germany,2005,co2_per_capita,10.2067903422435
+DEU,Germany,2006,co2_per_capita,10.3846207212787
+DEU,Germany,2007,co2_per_capita,10.0478127320359
+DEU,Germany,2008,co2_per_capita,10.1072965484379
+DEU,Germany,2009,co2_per_capita,9.37864424258525
+DEU,Germany,2010,co2_per_capita,9.96567124737992
+DEU,Germany,2011,co2_per_capita,9.81776726131477
+DEU,Germany,2012,co2_per_capita,9.94745307113612
+DEU,Germany,2013,co2_per_capita,10.1408601249876
+DEU,Germany,2014,co2_per_capita,9.61630846170469
+DEU,Germany,2015,co2_per_capita,9.60884887243027
+DEU,Germany,2016,co2_per_capita,9.58423383867929
+DEU,Germany,2017,co2_per_capita,9.36976518940283
+DEU,Germany,2018,co2_per_capita,9.00657809367265
+DEU,Germany,2019,co2_per_capita,8.38218043063623
+DEU,Germany,2020,co2_per_capita,7.72103264767393
+DEU,Germany,2021,co2_per_capita,8.06128144646434
+DEU,Germany,2022,co2_per_capita,7.91182860265874
+DEU,Germany,2023,co2_per_capita,7.07982839106762
+DEU,Germany,2024,co2_per_capita,6.94395663386317
+DEU,Germany,2000,energy_intensity,3.97
+DEU,Germany,2001,energy_intensity,4.02
+DEU,Germany,2002,energy_intensity,3.94
+DEU,Germany,2003,energy_intensity,3.96
+DEU,Germany,2004,energy_intensity,3.94
+DEU,Germany,2005,energy_intensity,3.89
+DEU,Germany,2006,energy_intensity,3.86
+DEU,Germany,2007,energy_intensity,3.56
+DEU,Germany,2008,energy_intensity,3.57
+DEU,Germany,2009,energy_intensity,3.53
+DEU,Germany,2010,energy_intensity,3.57
+DEU,Germany,2011,energy_intensity,3.26
+DEU,Germany,2012,energy_intensity,3.27
+DEU,Germany,2013,energy_intensity,3.32
+DEU,Germany,2014,energy_intensity,3.11
+DEU,Germany,2015,energy_intensity,3.08
+DEU,Germany,2016,energy_intensity,3.02
+DEU,Germany,2017,energy_intensity,2.95
+DEU,Germany,2018,energy_intensity,2.85
+DEU,Germany,2019,energy_intensity,2.76
+DEU,Germany,2020,energy_intensity,2.69
+DEU,Germany,2021,energy_intensity,2.7
+DEU,Germany,2022,energy_intensity,2.47
+DEU,Germany,2000,gdp_per_capita,49955.6461286496
+DEU,Germany,2001,gdp_per_capita,50687.6500447924
+DEU,Germany,2002,gdp_per_capita,50486.998248551
+DEU,Germany,2003,gdp_per_capita,50191.7219389611
+DEU,Germany,2004,gdp_per_capita,50786.0176463275
+DEU,Germany,2005,gdp_per_capita,51264.8193748941
+DEU,Germany,2006,gdp_per_capita,53307.1623767517
+DEU,Germany,2007,gdp_per_capita,54920.6589299724
+DEU,Germany,2008,gdp_per_capita,55513.7558858315
+DEU,Germany,2009,gdp_per_capita,52568.797424995
+DEU,Germany,2010,gdp_per_capita,54826.255453315
+DEU,Germany,2011,gdp_per_capita,57950.9589729677
+DEU,Germany,2012,gdp_per_capita,58110.3768512245
+DEU,Germany,2013,gdp_per_capita,58182.0766176953
+DEU,Germany,2014,gdp_per_capita,59203.2340879963
+DEU,Germany,2015,gdp_per_capita,59668.9890355282
+DEU,Germany,2016,gdp_per_capita,60504.5857417161
+DEU,Germany,2017,gdp_per_capita,61965.4342904965
+DEU,Germany,2018,gdp_per_capita,62481.1183971045
+DEU,Germany,2019,gdp_per_capita,62949.8932511855
+DEU,Germany,2020,gdp_per_capita,60299.5767710809
+DEU,Germany,2021,gdp_per_capita,62630.7748127737
+DEU,Germany,2022,gdp_per_capita,63777.9291029299
+DEU,Germany,2023,gdp_per_capita,63140.1949099669
+DEU,Germany,2024,gdp_per_capita,62654.602264023
+DEU,Germany,2000,renewable_electricity,6.88673698232395
+DEU,Germany,2001,renewable_electricity,7.23304331811066
+DEU,Germany,2002,renewable_electricity,8.38887051853266
+DEU,Germany,2003,renewable_electricity,8.41124256470187
+DEU,Germany,2004,renewable_electricity,10.3016006303503
+DEU,Germany,2005,renewable_electricity,11.2629470690756
+DEU,Germany,2006,renewable_electricity,12.3838878699732
+DEU,Germany,2007,renewable_electricity,15.0125048335391
+DEU,Germany,2008,renewable_electricity,15.6434365062903
+DEU,Germany,2009,renewable_electricity,17.0317317412975
+DEU,Germany,2010,renewable_electricity,17.6238311852413
+DEU,Germany,2011,renewable_electricity,21.1830252657297
+DEU,Germany,2012,renewable_electricity,23.7360619053531
+DEU,Germany,2013,renewable_electricity,24.7569676577929
+DEU,Germany,2014,renewable_electricity,26.8208650442971
+DEU,Germany,2015,renewable_electricity,30.0329009777745
+DEU,Germany,2016,renewable_electricity,30.0192636163635
+DEU,Germany,2017,renewable_electricity,34.0095116739047
+DEU,Germany,2018,renewable_electricity,35.6372215317549
+DEU,Germany,2019,renewable_electricity,40.577541904412
+DEU,Germany,2020,renewable_electricity,44.8396245103934
+DEU,Germany,2021,renewable_electricity,39.832111961348
+DEU,Germany,2000,renewable_share,3.7
+DEU,Germany,2001,renewable_share,3.9
+DEU,Germany,2002,renewable_share,4.4
+DEU,Germany,2003,renewable_share,5.4
+DEU,Germany,2004,renewable_share,6.3
+DEU,Germany,2005,renewable_share,7.3
+DEU,Germany,2006,renewable_share,8.6
+DEU,Germany,2007,renewable_share,10.5
+DEU,Germany,2008,renewable_share,10.2
+DEU,Germany,2009,renewable_share,10.7
+DEU,Germany,2010,renewable_share,11.6
+DEU,Germany,2011,renewable_share,12.5
+DEU,Germany,2012,renewable_share,13.6
+DEU,Germany,2013,renewable_share,13.6
+DEU,Germany,2014,renewable_share,14.0
+DEU,Germany,2015,renewable_share,14.6
+DEU,Germany,2016,renewable_share,14.2
+DEU,Germany,2017,renewable_share,15.2
+DEU,Germany,2018,renewable_share,16.0
+DEU,Germany,2019,renewable_share,17.1
+DEU,Germany,2020,renewable_share,18.5
+DEU,Germany,2021,renewable_share,17.6
+FRA,France,2000,co2_per_capita,6.58034817935345
+FRA,France,2001,co2_per_capita,6.59967427030181
+FRA,France,2002,co2_per_capita,6.46436747006761
+FRA,France,2003,co2_per_capita,6.49767617932604
+FRA,France,2004,co2_per_capita,6.46668310699496
+FRA,France,2005,co2_per_capita,6.45391402908229
+FRA,France,2006,co2_per_capita,6.24021668362979
+FRA,France,2007,co2_per_capita,6.09003030294036
+FRA,France,2008,co2_per_capita,5.94290191259616
+FRA,France,2009,co2_per_capita,5.71717317269645
+FRA,France,2010,co2_per_capita,5.80194807906
+FRA,France,2011,co2_per_capita,5.56604040689413
+FRA,France,2012,co2_per_capita,5.55949763606406
+FRA,France,2013,co2_per_capita,5.45712098979101
+FRA,France,2014,co2_per_capita,4.93048874498212
+FRA,France,2015,co2_per_capita,4.99116340691761
+FRA,France,2016,co2_per_capita,5.01727531627851
+FRA,France,2017,co2_per_capita,5.06155143263354
+FRA,France,2018,co2_per_capita,4.89217066506758
+FRA,France,2019,co2_per_capita,4.79214044818249
+FRA,France,2020,co2_per_capita,4.24677642127474
+FRA,France,2021,co2_per_capita,4.66820869200128
+FRA,France,2022,co2_per_capita,4.51246828877731
+FRA,France,2023,co2_per_capita,4.15598361008436
+FRA,France,2024,co2_per_capita,4.00355772602595
+FRA,France,2000,energy_intensity,4.33
+FRA,France,2001,energy_intensity,4.4
+FRA,France,2002,energy_intensity,4.35
+FRA,France,2003,energy_intensity,4.43
+FRA,France,2004,energy_intensity,4.38
+FRA,France,2005,energy_intensity,4.32
+FRA,France,2006,energy_intensity,4.14
+FRA,France,2007,energy_intensity,4.0
+FRA,France,2008,energy_intensity,4.02
+FRA,France,2009,energy_intensity,3.95
+FRA,France,2010,energy_intensity,4.0
+FRA,France,2011,energy_intensity,3.84
+FRA,France,2012,energy_intensity,3.83
+FRA,France,2013,energy_intensity,3.82
+FRA,France,2014,energy_intensity,3.63
+FRA,France,2015,energy_intensity,3.65
+FRA,France,2016,energy_intensity,3.54
+FRA,France,2017,energy_intensity,3.46
+FRA,France,2018,energy_intensity,3.37
+FRA,France,2019,energy_intensity,3.26
+FRA,France,2020,energy_intensity,3.18
+FRA,France,2021,energy_intensity,3.23
+FRA,France,2022,energy_intensity,2.83
+FRA,France,2000,gdp_per_capita,45922.4789363701
+FRA,France,2001,gdp_per_capita,46454.8706927365
+FRA,France,2002,gdp_per_capita,46610.7820717214
+FRA,France,2003,gdp_per_capita,46730.975806379
+FRA,France,2004,gdp_per_capita,47720.4413351103
+FRA,France,2005,gdp_per_capita,48257.4650937971
+FRA,France,2006,gdp_per_capita,49223.247197008
+FRA,France,2007,gdp_per_capita,50157.7837477634
+FRA,France,2008,gdp_per_capita,50068.2969141379
+FRA,France,2009,gdp_per_capita,48404.9657826363
+FRA,France,2010,gdp_per_capita,49130.422942344
+FRA,France,2011,gdp_per_capita,50085.6829779109
+FRA,France,2012,gdp_per_capita,49935.6269081617
+FRA,France,2013,gdp_per_capita,50066.5304324783
+FRA,France,2014,gdp_per_capita,50326.567863089
+FRA,France,2015,gdp_per_capita,50682.8953586333
+FRA,France,2016,gdp_per_capita,50984.075297832
+FRA,France,2017,gdp_per_capita,51895.5662985838
+FRA,France,2018,gdp_per_capita,52560.9536243841
+FRA,France,2019,gdp_per_capita,53448.5548849943
+FRA,France,2020,gdp_per_capita,49311.333409639
+FRA,France,2021,gdp_per_capita,52517.3354905855
+FRA,France,2022,gdp_per_capita,53673.8137406422
+FRA,France,2023,gdp_per_capita,54296.7230897731
+FRA,France,2024,gdp_per_capita,54799.3482689389
+FRA,France,2000,renewable_electricity,13.7368998099838
+FRA,France,2001,renewable_electricity,14.9187032555093
+FRA,France,2002,renewable_electricity,12.456687350084
+FRA,France,2003,renewable_electricity,12.0654455064763
+FRA,France,2004,renewable_electricity,12.0693402873951
+FRA,France,2005,renewable_electricity,10.6198562305034
+FRA,France,2006,renewable_electricity,11.790103484446
+FRA,France,2007,renewable_electricity,12.560092879909
+FRA,France,2008,renewable_electricity,13.6874971680324
+FRA,France,2009,renewable_electricity,13.9254447917153
+FRA,France,2010,renewable_electricity,14.5810478721629
+FRA,France,2011,renewable_electricity,12.408786699139
+FRA,France,2012,renewable_electricity,15.7352836483431
+FRA,France,2013,renewable_electricity,17.9488061402425
+FRA,France,2014,renewable_electricity,17.4237595181707
+FRA,France,2015,renewable_electricity,16.6908471384698
+FRA,France,2016,renewable_electricity,18.394994482204
+FRA,France,2017,renewable_electricity,17.4033928476067
+FRA,France,2018,renewable_electricity,20.4232134519788
+FRA,France,2019,renewable_electricity,20.6322385509945
+FRA,France,2020,renewable_electricity,24.3619634665485
+FRA,France,2021,renewable_electricity,22.8074034074034
+FRA,France,2000,renewable_share,9.3
+FRA,France,2001,renewable_share,9.4
+FRA,France,2002,renewable_share,8.7
+FRA,France,2003,renewable_share,8.8
+FRA,France,2004,renewable_share,8.9
+FRA,France,2005,renewable_share,8.6
+FRA,France,2006,renewable_share,8.5
+FRA,France,2007,renewable_share,9.4
+FRA,France,2008,renewable_share,10.5
+FRA,France,2009,renewable_share,11.2
+FRA,France,2010,renewable_share,11.9
+FRA,France,2011,renewable_share,10.6
+FRA,France,2012,renewable_share,12.3
+FRA,France,2013,renewable_share,13.4
+FRA,France,2014,renewable_share,13.2
+FRA,France,2015,renewable_share,13.3
+FRA,France,2016,renewable_share,14.2
+FRA,France,2017,renewable_share,14.1
+FRA,France,2018,renewable_share,15.2
+FRA,France,2019,renewable_share,15.5
+FRA,France,2020,renewable_share,16.8
+FRA,France,2021,renewable_share,16.2
+GBR,United Kingdom,2000,co2_per_capita,9.37230154582975
+GBR,United Kingdom,2001,co2_per_capita,9.52500193970965
+GBR,United Kingdom,2002,co2_per_capita,9.21604321231769
+GBR,United Kingdom,2003,co2_per_capita,9.40083618149317
+GBR,United Kingdom,2004,co2_per_capita,9.35478076788979
+GBR,United Kingdom,2005,co2_per_capita,9.2634507993102
+GBR,United Kingdom,2006,co2_per_capita,9.20229684969568
+GBR,United Kingdom,2007,co2_per_capita,8.97579081257711
+GBR,United Kingdom,2008,co2_per_capita,8.63835719565399
+GBR,United Kingdom,2009,co2_per_capita,7.76330695463938
+GBR,United Kingdom,2010,co2_per_capita,7.97797355319206
+GBR,United Kingdom,2011,co2_per_capita,7.25917227971883
+GBR,United Kingdom,2012,co2_per_capita,7.55583494216069
+GBR,United Kingdom,2013,co2_per_capita,7.33137453615641
+GBR,United Kingdom,2014,co2_per_capita,6.6645615066776
+GBR,United Kingdom,2015,co2_per_capita,6.38967382119317
+GBR,United Kingdom,2016,co2_per_capita,5.9729506447581
+GBR,United Kingdom,2017,co2_per_capita,5.77150870171609
+GBR,United Kingdom,2018,co2_per_capita,5.64035331211248
+GBR,United Kingdom,2019,co2_per_capita,5.38832172660143
+GBR,United Kingdom,2020,co2_per_capita,4.79017680551393
+GBR,United Kingdom,2021,co2_per_capita,5.04516109767386
+GBR,United Kingdom,2022,co2_per_capita,4.80505795730085
+GBR,United Kingdom,2023,co2_per_capita,4.4477512185156
+GBR,United Kingdom,2024,co2_per_capita,4.22077337220883
+GBR,United Kingdom,2000,energy_intensity,4.07
+GBR,United Kingdom,2001,energy_intensity,3.99
+GBR,United Kingdom,2002,energy_intensity,3.87
+GBR,United Kingdom,2003,energy_intensity,3.82
+GBR,United Kingdom,2004,energy_intensity,3.69
+GBR,United Kingdom,2005,energy_intensity,3.61
+GBR,United Kingdom,2006,energy_intensity,3.47
+GBR,United Kingdom,2007,energy_intensity,3.26
+GBR,United Kingdom,2008,energy_intensity,3.22
+GBR,United Kingdom,2009,energy_intensity,3.17
+GBR,United Kingdom,2010,energy_intensity,3.21
+GBR,United Kingdom,2011,energy_intensity,2.94
+GBR,United Kingdom,2012,energy_intensity,2.98
+GBR,United Kingdom,2013,energy_intensity,2.88
+GBR,United Kingdom,2014,energy_intensity,2.63
+GBR,United Kingdom,2015,energy_intensity,2.59
+GBR,United Kingdom,2016,energy_intensity,2.5
+GBR,United Kingdom,2017,energy_intensity,2.41
+GBR,United Kingdom,2018,energy_intensity,2.34
+GBR,United Kingdom,2019,energy_intensity,2.22
+GBR,United Kingdom,2020,energy_intensity,2.28
+GBR,United Kingdom,2021,energy_intensity,2.2
+GBR,United Kingdom,2022,energy_intensity,2.04
+GBR,United Kingdom,2000,gdp_per_capita,43818.3463079443
+GBR,United Kingdom,2001,gdp_per_capita,44693.6612621755
+GBR,United Kingdom,2002,gdp_per_capita,45265.4565169944
+GBR,United Kingdom,2003,gdp_per_capita,46505.2798806788
+GBR,United Kingdom,2004,gdp_per_capita,47317.027070979
+GBR,United Kingdom,2005,gdp_per_capita,48304.6753205932
+GBR,United Kingdom,2006,gdp_per_capita,49000.9535382241
+GBR,United Kingdom,2007,gdp_per_capita,50045.9163092519
+GBR,United Kingdom,2008,gdp_per_capita,49629.0498697349
+GBR,United Kingdom,2009,gdp_per_capita,46995.5449961945
+GBR,United Kingdom,2010,gdp_per_capita,47682.6525150443
+GBR,United Kingdom,2011,gdp_per_capita,47714.2894262827
+GBR,United Kingdom,2012,gdp_per_capita,48099.6594401942
+GBR,United Kingdom,2013,gdp_per_capita,48600.5100807266
+GBR,United Kingdom,2014,gdp_per_capita,49763.17387988
+GBR,United Kingdom,2015,gdp_per_capita,50462.8329992477
+GBR,United Kingdom,2016,gdp_per_capita,51168.2925796814
+GBR,United Kingdom,2017,gdp_per_capita,52429.1275538988
+GBR,United Kingdom,2018,gdp_per_capita,52983.039541197
+GBR,United Kingdom,2019,gdp_per_capita,53374.0927628482
+GBR,United Kingdom,2020,gdp_per_capita,47930.5490378931
+GBR,United Kingdom,2021,gdp_per_capita,51840.4424245515
+GBR,United Kingdom,2022,gdp_per_capita,53979.7679116234
+GBR,United Kingdom,2023,gdp_per_capita,53423.4226338292
+GBR,United Kingdom,2024,gdp_per_capita,53412.0647163589
+GBR,United Kingdom,2000,renewable_electricity,3.35853650127696
+GBR,United Kingdom,2001,renewable_electricity,3.1110556694708
+GBR,United Kingdom,2002,renewable_electricity,3.55820331262298
+GBR,United Kingdom,2003,renewable_electricity,3.35310574136485
+GBR,United Kingdom,2004,renewable_electricity,4.26119560223087
+GBR,United Kingdom,2005,renewable_electricity,4.98749861932543
+GBR,United Kingdom,2006,renewable_electricity,5.52730805825585
+GBR,United Kingdom,2007,renewable_electricity,5.93404211889756
+GBR,United Kingdom,2008,renewable_electricity,6.77161952616921
+GBR,United Kingdom,2009,renewable_electricity,7.78668294365861
+GBR,United Kingdom,2010,renewable_electricity,7.66320959272708
+GBR,United Kingdom,2011,renewable_electricity,10.3583881637057
+GBR,United Kingdom,2012,renewable_electricity,12.1419134027188
+GBR,United Kingdom,2013,renewable_electricity,15.6690312872525
+GBR,United Kingdom,2014,renewable_electricity,19.9592553440347
+GBR,United Kingdom,2015,renewable_electricity,25.4710311062464
+GBR,United Kingdom,2016,renewable_electricity,25.4852540875207
+GBR,United Kingdom,2017,renewable_electricity,30.154491759748
+GBR,United Kingdom,2018,renewable_electricity,33.7661243996114
+GBR,United Kingdom,2019,renewable_electricity,37.5205246899264
+GBR,United Kingdom,2020,renewable_electricity,43.8836758483445
+GBR,United Kingdom,2021,renewable_electricity,40.1999760236135
+GBR,United Kingdom,2000,renewable_share,1.0
+GBR,United Kingdom,2001,renewable_share,0.8
+GBR,United Kingdom,2002,renewable_share,1.0
+GBR,United Kingdom,2003,renewable_share,0.9
+GBR,United Kingdom,2004,renewable_share,1.1
+GBR,United Kingdom,2005,renewable_share,1.4
+GBR,United Kingdom,2006,renewable_share,1.6
+GBR,United Kingdom,2007,renewable_share,1.8
+GBR,United Kingdom,2008,renewable_share,2.4
+GBR,United Kingdom,2009,renewable_share,3.0
+GBR,United Kingdom,2010,renewable_share,3.2
+GBR,United Kingdom,2011,renewable_share,4.0
+GBR,United Kingdom,2012,renewable_share,4.2
+GBR,United Kingdom,2013,renewable_share,5.2
+GBR,United Kingdom,2014,renewable_share,6.6
+GBR,United Kingdom,2015,renewable_share,7.7
+GBR,United Kingdom,2016,renewable_share,7.7
+GBR,United Kingdom,2017,renewable_share,8.8
+GBR,United Kingdom,2018,renewable_share,10.2
+GBR,United Kingdom,2019,renewable_share,11.4
+GBR,United Kingdom,2020,renewable_share,13.6
+GBR,United Kingdom,2021,renewable_share,12.2
+IDN,Indonesia,2000,co2_per_capita,1.38408579613851
+IDN,Indonesia,2001,co2_per_capita,1.45853518944239
+IDN,Indonesia,2002,co2_per_capita,1.46310550665851
+IDN,Indonesia,2003,co2_per_capita,1.57132250644049
+IDN,Indonesia,2004,co2_per_capita,1.58011931285841
+IDN,Indonesia,2005,co2_per_capita,1.57055662745946
+IDN,Indonesia,2006,co2_per_capita,1.63888306289882
+IDN,Indonesia,2007,co2_per_capita,1.69488500402322
+IDN,Indonesia,2008,co2_per_capita,1.6541425247205
+IDN,Indonesia,2009,co2_per_capita,1.69126327047376
+IDN,Indonesia,2010,co2_per_capita,1.80134962735397
+IDN,Indonesia,2011,co2_per_capita,2.00399300866727
+IDN,Indonesia,2012,co2_per_capita,1.9954892890649
+IDN,Indonesia,2013,co2_per_capita,1.85640226795234
+IDN,Indonesia,2014,co2_per_capita,1.95102470107868
+IDN,Indonesia,2015,co2_per_capita,1.95721455259026
+IDN,Indonesia,2016,co2_per_capita,1.91626591013332
+IDN,Indonesia,2017,co2_per_capita,2.00394276108737
+IDN,Indonesia,2018,co2_per_capita,2.20953925241911
+IDN,Indonesia,2019,co2_per_capita,2.33979466524606
+IDN,Indonesia,2020,co2_per_capita,2.16976580881181
+IDN,Indonesia,2021,co2_per_capita,2.24993200107532
+IDN,Indonesia,2022,co2_per_capita,2.5918955237502
+IDN,Indonesia,2023,co2_per_capita,2.74747187282401
+IDN,Indonesia,2024,co2_per_capita,2.86503978188758
+IDN,Indonesia,2000,energy_intensity,5.5
+IDN,Indonesia,2001,energy_intensity,5.43
+IDN,Indonesia,2002,energy_intensity,5.38
+IDN,Indonesia,2003,energy_intensity,5.15
+IDN,Indonesia,2004,energy_intensity,5.22
+IDN,Indonesia,2005,energy_intensity,5.02
+IDN,Indonesia,2006,energy_intensity,4.86
+IDN,Indonesia,2007,energy_intensity,4.55
+IDN,Indonesia,2008,energy_intensity,4.31
+IDN,Indonesia,2009,energy_intensity,4.35
+IDN,Indonesia,2010,energy_intensity,4.26
+IDN,Indonesia,2011,energy_intensity,4.1
+IDN,Indonesia,2012,energy_intensity,3.84
+IDN,Indonesia,2013,energy_intensity,3.53
+IDN,Indonesia,2014,energy_intensity,3.48
+IDN,Indonesia,2015,energy_intensity,3.26
+IDN,Indonesia,2016,energy_intensity,3.18
+IDN,Indonesia,2017,energy_intensity,3.14
+IDN,Indonesia,2018,energy_intensity,3.24
+IDN,Indonesia,2019,energy_intensity,3.19
+IDN,Indonesia,2020,energy_intensity,3.11
+IDN,Indonesia,2021,energy_intensity,3.04
+IDN,Indonesia,2000,gdp_per_capita,6056.38197842165
+IDN,Indonesia,2001,gdp_per_capita,6190.51954040991
+IDN,Indonesia,2002,gdp_per_capita,6381.94955179996
+IDN,Indonesia,2003,gdp_per_capita,6599.09193597034
+IDN,Indonesia,2004,gdp_per_capita,6843.54654972364
+IDN,Indonesia,2005,gdp_per_capita,7140.8545640704
+IDN,Indonesia,2006,gdp_per_capita,7434.48785352221
+IDN,Indonesia,2007,gdp_per_capita,7802.46406905954
+IDN,Indonesia,2008,gdp_per_capita,8165.06155116624
+IDN,Indonesia,2009,gdp_per_capita,8435.4557468629
+IDN,Indonesia,2010,gdp_per_capita,8848.22473702066
+IDN,Indonesia,2011,gdp_per_capita,9274.96955181702
+IDN,Indonesia,2012,gdp_per_capita,9708.61182531081
+IDN,Indonesia,2013,gdp_per_capita,10121.8141535043
+IDN,Indonesia,2014,gdp_per_capita,10504.3869411088
+IDN,Indonesia,2015,gdp_per_capita,10893.6621142169
+IDN,Indonesia,2016,gdp_per_capita,11319.6634287738
+IDN,Indonesia,2017,gdp_per_capita,11772.5743296107
+IDN,Indonesia,2018,gdp_per_capita,12262.2310300771
+IDN,Indonesia,2019,gdp_per_capita,12757.7850854842
+IDN,Indonesia,2020,gdp_per_capita,12388.5449268131
+IDN,Indonesia,2021,gdp_per_capita,12757.0746440204
+IDN,Indonesia,2022,gdp_per_capita,13334.2653947637
+IDN,Indonesia,2023,gdp_per_capita,13889.9495012858
+IDN,Indonesia,2024,gdp_per_capita,14470.7179806578
+IDN,Indonesia,2000,renewable_electricity,21.0016394320922
+IDN,Indonesia,2001,renewable_electricity,21.9326940170265
+IDN,Indonesia,2002,renewable_electricity,19.4262454143064
+IDN,Indonesia,2003,renewable_electricity,17.5550392125622
+IDN,Indonesia,2004,renewable_electricity,17.4691460765793
+IDN,Indonesia,2005,renewable_electricity,17.7843235656204
+IDN,Indonesia,2006,renewable_electricity,15.9337877239389
+IDN,Indonesia,2007,renewable_electricity,17.1079767289713
+IDN,Indonesia,2008,renewable_electricity,17.6652893668886
+IDN,Indonesia,2009,renewable_electricity,17.123464349956
+IDN,Indonesia,2010,renewable_electricity,19.5486773530157
+IDN,Indonesia,2011,renewable_electricity,15.9698347345237
+IDN,Indonesia,2012,renewable_electricity,15.0142135155949
+IDN,Indonesia,2013,renewable_electricity,15.8799609237344
+IDN,Indonesia,2014,renewable_electricity,14.4806362553077
+IDN,Indonesia,2015,renewable_electricity,13.6339708948125
+IDN,Indonesia,2016,renewable_electricity,15.1172262829298
+IDN,Indonesia,2017,renewable_electricity,15.7450397330289
+IDN,Indonesia,2018,renewable_electricity,15.5767172167707
+IDN,Indonesia,2019,renewable_electricity,14.5635812486604
+IDN,Indonesia,2020,renewable_electricity,15.7987325866262
+IDN,Indonesia,2021,renewable_electricity,15.4607636838472
+IDN,Indonesia,2000,renewable_share,45.6
+IDN,Indonesia,2001,renewable_share,44.3
+IDN,Indonesia,2002,renewable_share,44.7
+IDN,Indonesia,2003,renewable_share,43.0
+IDN,Indonesia,2004,renewable_share,41.5
+IDN,Indonesia,2005,renewable_share,41.6
+IDN,Indonesia,2006,renewable_share,40.1
+IDN,Indonesia,2007,renewable_share,40.0
+IDN,Indonesia,2008,renewable_share,41.1
+IDN,Indonesia,2009,renewable_share,38.2
+IDN,Indonesia,2010,renewable_share,36.0
+IDN,Indonesia,2011,renewable_share,32.4
+IDN,Indonesia,2012,renewable_share,30.1
+IDN,Indonesia,2013,renewable_share,30.6
+IDN,Indonesia,2014,renewable_share,29.3
+IDN,Indonesia,2015,renewable_share,26.6
+IDN,Indonesia,2016,renewable_share,27.8
+IDN,Indonesia,2017,renewable_share,25.2
+IDN,Indonesia,2018,renewable_share,22.0
+IDN,Indonesia,2019,renewable_share,19.8
+IDN,Indonesia,2020,renewable_share,21.9
+IDN,Indonesia,2021,renewable_share,20.2
+IND,India,2000,co2_per_capita,0.942309744278839
+IND,India,2001,co2_per_capita,0.939789720011458
+IND,India,2002,co2_per_capita,0.957620477500199
+IND,India,2003,co2_per_capita,0.969744882653011
+IND,India,2004,co2_per_capita,1.02822643182898
+IND,India,2005,co2_per_capita,1.05460489385527
+IND,India,2006,co2_per_capita,1.10810989189174
+IND,India,2007,co2_per_capita,1.18862350046436
+IND,India,2008,co2_per_capita,1.25815998206335
+IND,India,2009,co2_per_capita,1.32284533301467
+IND,India,2010,co2_per_capita,1.39129863287623
+IND,India,2011,co2_per_capita,1.46337391608571
+IND,India,2012,co2_per_capita,1.57607553513255
+IND,India,2013,co2_per_capita,1.59945855716817
+IND,India,2014,co2_per_capita,1.70517686000076
+IND,India,2015,co2_per_capita,1.71550269097521
+IND,India,2016,co2_per_capita,1.7202923565219
+IND,India,2017,co2_per_capita,1.79545339877531
+IND,India,2018,co2_per_capita,1.85989309419052
+IND,India,2019,co2_per_capita,1.83688223212799
+IND,India,2020,co2_per_capita,1.68040016064392
+IND,India,2021,co2_per_capita,1.83702951699406
+IND,India,2022,co2_per_capita,1.96929618962877
+IND,India,2023,co2_per_capita,2.09622858892568
+IND,India,2024,co2_per_capita,2.17365173535787
+IND,India,2000,energy_intensity,7.01
+IND,India,2001,energy_intensity,6.78
+IND,India,2002,energy_intensity,6.71
+IND,India,2003,energy_intensity,6.37
+IND,India,2004,energy_intensity,6.24
+IND,India,2005,energy_intensity,5.94
+IND,India,2006,energy_intensity,5.74
+IND,India,2007,energy_intensity,5.54
+IND,India,2008,energy_intensity,5.63
+IND,India,2009,energy_intensity,5.67
+IND,India,2010,energy_intensity,5.41
+IND,India,2011,energy_intensity,5.28
+IND,India,2012,energy_intensity,5.28
+IND,India,2013,energy_intensity,5.11
+IND,India,2014,energy_intensity,5.08
+IND,India,2015,energy_intensity,4.82
+IND,India,2016,energy_intensity,4.54
+IND,India,2017,energy_intensity,4.46
+IND,India,2018,energy_intensity,4.41
+IND,India,2019,energy_intensity,4.25
+IND,India,2020,energy_intensity,4.25
+IND,India,2021,energy_intensity,4.21
+IND,India,2000,gdp_per_capita,3010.42156148397
+IND,India,2001,gdp_per_capita,3097.16224022342
+IND,India,2002,gdp_per_capita,3157.26903770593
+IND,India,2003,gdp_per_capita,3346.8882902915
+IND,India,2004,gdp_per_capita,3551.04731213773
+IND,India,2005,gdp_per_capita,3770.39653173829
+IND,India,2006,gdp_per_capita,4011.08647585805
+IND,India,2007,gdp_per_capita,4253.82139046739
+IND,India,2008,gdp_per_capita,4322.48378983546
+IND,India,2009,gdp_per_capita,4595.37990753812
+IND,India,2010,gdp_per_capita,4913.87639723705
+IND,India,2011,gdp_per_capita,5098.67458775444
+IND,India,2012,gdp_per_capita,5303.50197767655
+IND,India,2013,gdp_per_capita,5567.49439418718
+IND,India,2014,gdp_per_capita,5905.10618204633
+IND,India,2015,gdp_per_capita,6301.67346968236
+IND,India,2016,gdp_per_capita,6741.14883185347
+IND,India,2017,gdp_per_capita,7116.03659185396
+IND,India,2018,gdp_per_capita,7492.62576755145
+IND,India,2019,gdp_per_capita,7702.17634811957
+IND,India,2020,gdp_per_capita,7186.86447099679
+IND,India,2021,gdp_per_capita,7818.65701757504
+IND,India,2022,gdp_per_capita,8347.38478647086
+IND,India,2023,gdp_per_capita,8870.55027609345
+IND,India,2024,gdp_per_capita,9416.05137044735
+IND,India,2000,renewable_electricity,14.0401258332442
+IND,India,2001,renewable_electricity,13.6197629481384
+IND,India,2002,renewable_electricity,12.8005809834912
+IND,India,2003,renewable_electricity,11.5191856915079
+IND,India,2004,renewable_electricity,12.8708458297682
+IND,India,2005,renewable_electricity,14.3659113976406
+IND,India,2006,renewable_electricity,15.9724580053981
+IND,India,2007,renewable_electricity,16.9070639525275
+IND,India,2008,renewable_electricity,17.1198595906147
+IND,India,2009,renewable_electricity,15.3623195422535
+IND,India,2010,renewable_electricity,14.9537245480382
+IND,India,2011,renewable_electricity,15.3182338734367
+IND,India,2012,renewable_electricity,16.2581448975524
+IND,India,2013,renewable_electricity,15.3110391105333
+IND,India,2014,renewable_electricity,15.8754192356745
+IND,India,2015,renewable_electricity,14.8962899835153
+IND,India,2016,renewable_electricity,13.5986245895964
+IND,India,2017,renewable_electricity,14.1609071395883
+IND,India,2018,renewable_electricity,15.0117807369317
+IND,India,2019,renewable_electricity,16.8292402938995
+IND,India,2020,renewable_electricity,19.756300311713
+IND,India,2021,renewable_electricity,19.1298662811444
+IND,India,2000,renewable_share,46.9
+IND,India,2001,renewable_share,47.1
+IND,India,2002,renewable_share,45.8
+IND,India,2003,renewable_share,45.6
+IND,India,2004,renewable_share,44.9
+IND,India,2005,renewable_share,44.2
+IND,India,2006,renewable_share,43.2
+IND,India,2007,renewable_share,41.5
+IND,India,2008,renewable_share,39.4
+IND,India,2009,renewable_share,37.4
+IND,India,2010,renewable_share,36.2
+IND,India,2011,renewable_share,35.0
+IND,India,2012,renewable_share,34.8
+IND,India,2013,renewable_share,34.9
+IND,India,2014,renewable_share,33.9
+IND,India,2015,renewable_share,33.4
+IND,India,2016,renewable_share,33.0
+IND,India,2017,renewable_share,32.5
+IND,India,2018,renewable_share,32.9
+IND,India,2019,renewable_share,33.5
+IND,India,2020,renewable_share,36.1
+IND,India,2021,renewable_share,34.9
+ITA,Italy,2000,co2_per_capita,7.97861399862471
+ITA,Italy,2001,co2_per_capita,7.96252086434695
+ITA,Italy,2002,co2_per_capita,8.07424104162591
+ITA,Italy,2003,co2_per_capita,8.37573927880229
+ITA,Italy,2004,co2_per_capita,8.51073142040319
+ITA,Italy,2005,co2_per_capita,8.4768648141216
+ITA,Italy,2006,co2_per_capita,8.34804384209065
+ITA,Italy,2007,co2_per_capita,8.17482777618523
+ITA,Italy,2008,co2_per_capita,7.85286143845028
+ITA,Italy,2009,co2_per_capita,6.94826035580217
+ITA,Italy,2010,co2_per_capita,7.08186391750757
+ITA,Italy,2011,co2_per_capita,6.9053125750862
+ITA,Italy,2012,co2_per_capita,6.55333989010063
+ITA,Italy,2013,co2_per_capita,5.99742374656768
+ITA,Italy,2014,co2_per_capita,5.68586837020992
+ITA,Italy,2015,co2_per_capita,5.87319309166979
+ITA,Italy,2016,co2_per_capita,5.80834075921169
+ITA,Italy,2017,co2_per_capita,5.7611454316748
+ITA,Italy,2018,co2_per_capita,5.68452233279163
+ITA,Italy,2019,co2_per_capita,5.56784056329278
+ITA,Italy,2020,co2_per_capita,4.96667406979317
+ITA,Italy,2021,co2_per_capita,5.58651571090224
+ITA,Italy,2022,co2_per_capita,5.60897190137329
+ITA,Italy,2023,co2_per_capita,5.1591446091273
+ITA,Italy,2024,co2_per_capita,5.07573834102673
+ITA,Italy,2000,energy_intensity,2.92
+ITA,Italy,2001,energy_intensity,2.87
+ITA,Italy,2002,energy_intensity,2.88
+ITA,Italy,2003,energy_intensity,3.02
+ITA,Italy,2004,energy_intensity,2.99
+ITA,Italy,2005,energy_intensity,3.03
+ITA,Italy,2006,energy_intensity,2.95
+ITA,Italy,2007,energy_intensity,2.89
+ITA,Italy,2008,energy_intensity,2.88
+ITA,Italy,2009,energy_intensity,2.84
+ITA,Italy,2010,energy_intensity,2.86
+ITA,Italy,2011,energy_intensity,2.75
+ITA,Italy,2012,energy_intensity,2.72
+ITA,Italy,2013,energy_intensity,2.67
+ITA,Italy,2014,energy_intensity,2.52
+ITA,Italy,2015,energy_intensity,2.6
+ITA,Italy,2016,energy_intensity,2.54
+ITA,Italy,2017,energy_intensity,2.54
+ITA,Italy,2018,energy_intensity,2.47
+ITA,Italy,2019,energy_intensity,2.43
+ITA,Italy,2020,energy_intensity,2.47
+ITA,Italy,2021,energy_intensity,2.51
+ITA,Italy,2022,energy_intensity,2.3
+ITA,Italy,2000,gdp_per_capita,50353.4200415436
+ITA,Italy,2001,gdp_per_capita,51332.2904432567
+ITA,Italy,2002,gdp_per_capita,51369.1149098293
+ITA,Italy,2003,gdp_per_capita,51126.2585544038
+ITA,Italy,2004,gdp_per_capita,51495.0028841364
+ITA,Italy,2005,gdp_per_capita,51585.6445807938
+ITA,Italy,2006,gdp_per_capita,52304.2402949819
+ITA,Italy,2007,gdp_per_capita,52747.1905476807
+ITA,Italy,2008,gdp_per_capita,51806.3906176391
+ITA,Italy,2009,gdp_per_capita,48774.3916833748
+ITA,Italy,2010,gdp_per_capita,49301.6959141674
+ITA,Italy,2011,gdp_per_capita,49473.0149235634
+ITA,Italy,2012,gdp_per_capita,47795.9579360541
+ITA,Italy,2013,gdp_per_capita,46833.3615309303
+ITA,Italy,2014,gdp_per_capita,46825.6511245062
+ITA,Italy,2015,gdp_per_capita,47311.8255262709
+ITA,Italy,2016,gdp_per_capita,47987.8379581014
+ITA,Italy,2017,gdp_per_capita,48849.2183534756
+ITA,Italy,2018,gdp_per_capita,49355.8751913504
+ITA,Italy,2019,gdp_per_capita,49690.6298505274
+ITA,Italy,2020,gdp_per_capita,45505.0688708956
+ITA,Italy,2021,gdp_per_capita,49825.3934111848
+ITA,Italy,2022,gdp_per_capita,52333.3274270604
+ITA,Italy,2023,gdp_per_capita,52842.6288831758
+ITA,Italy,2024,gdp_per_capita,53284.8745049149
+ITA,Italy,2000,renewable_electricity,20.8138489956297
+ITA,Italy,2001,renewable_electricity,22.0289920002294
+ITA,Italy,2002,renewable_electricity,19.6507978238618
+ITA,Italy,2003,renewable_electricity,18.5354663744879
+ITA,Italy,2004,renewable_electricity,20.2534259445454
+ITA,Italy,2005,renewable_electricity,18.2074850427562
+ITA,Italy,2006,renewable_electricity,18.1659869922737
+ITA,Italy,2007,renewable_electricity,17.006690305747
+ITA,Italy,2008,renewable_electricity,19.9805533795005
+ITA,Italy,2009,renewable_electricity,25.1354194075294
+ITA,Italy,2010,renewable_electricity,26.5708511138405
+ITA,Italy,2011,renewable_electricity,28.058229036192
+ITA,Italy,2012,renewable_electricity,31.4795423637633
+ITA,Italy,2013,renewable_electricity,39.3087237669337
+ITA,Italy,2014,renewable_electricity,43.7427339034475
+ITA,Italy,2015,renewable_electricity,38.993960981367
+ITA,Italy,2016,renewable_electricity,37.9132682465567
+ITA,Italy,2017,renewable_electricity,35.7422506169084
+ITA,Italy,2018,renewable_electricity,40.0899112209535
+ITA,Italy,2019,renewable_electricity,40.0521927630482
+ITA,Italy,2020,renewable_electricity,42.3735273463539
+ITA,Italy,2021,renewable_electricity,40.9735703240403
+ITA,Italy,2000,renewable_share,5.1
+ITA,Italy,2001,renewable_share,5.4
+ITA,Italy,2002,renewable_share,5.6
+ITA,Italy,2003,renewable_share,6.2
+ITA,Italy,2004,renewable_share,5.9
+ITA,Italy,2005,renewable_share,6.7
+ITA,Italy,2006,renewable_share,7.5
+ITA,Italy,2007,renewable_share,8.7
+ITA,Italy,2008,renewable_share,10.8
+ITA,Italy,2009,renewable_share,12.5
+ITA,Italy,2010,renewable_share,12.8
+ITA,Italy,2011,renewable_share,11.9
+ITA,Italy,2012,renewable_share,14.4
+ITA,Italy,2013,renewable_share,16.3
+ITA,Italy,2014,renewable_share,17.1
+ITA,Italy,2015,renewable_share,16.6
+ITA,Italy,2016,renewable_share,16.1
+ITA,Italy,2017,renewable_share,16.4
+ITA,Italy,2018,renewable_share,17.1
+ITA,Italy,2019,renewable_share,17.3
+ITA,Italy,2020,renewable_share,18.7
+ITA,Italy,2021,renewable_share,17.5
+JPN,Japan,2000,co2_per_capita,9.80406329083986
+JPN,Japan,2001,co2_per_capita,9.67360734256659
+JPN,Japan,2002,co2_per_capita,9.92193416768018
+JPN,Japan,2003,co2_per_capita,9.95886797475689
+JPN,Japan,2004,co2_per_capita,9.91730575058116
+JPN,Japan,2005,co2_per_capita,10.0074734098753
+JPN,Japan,2006,co2_per_capita,9.82400472413847
+JPN,Japan,2007,co2_per_capita,10.0916024093562
+JPN,Japan,2008,co2_per_capita,9.53253711064086
+JPN,Japan,2009,co2_per_capita,9.03961045553586
+JPN,Japan,2010,co2_per_capita,9.50311626454283
+JPN,Japan,2011,co2_per_capita,9.93397401297005
+JPN,Japan,2012,co2_per_capita,10.2516011251361
+JPN,Japan,2013,co2_per_capita,10.3847926556554
+JPN,Japan,2014,co2_per_capita,10.0063625506773
+JPN,Japan,2015,co2_per_capita,9.69456115651128
+JPN,Japan,2016,co2_per_capita,9.66865261733136
+JPN,Japan,2017,co2_per_capita,9.55283290804272
+JPN,Japan,2018,co2_per_capita,9.17213648658239
+JPN,Japan,2019,co2_per_capita,8.87456666113888
+JPN,Japan,2020,co2_per_capita,8.39710520271501
+JPN,Japan,2021,co2_per_capita,8.5947828493867
+JPN,Japan,2022,co2_per_capita,8.3956307081074
+JPN,Japan,2023,co2_per_capita,8.05063579850566
+JPN,Japan,2024,co2_per_capita,7.84242057238933
+JPN,Japan,2000,energy_intensity,4.7
+JPN,Japan,2001,energy_intensity,4.6
+JPN,Japan,2002,energy_intensity,4.62
+JPN,Japan,2003,energy_intensity,4.52
+JPN,Japan,2004,energy_intensity,4.56
+JPN,Japan,2005,energy_intensity,4.46
+JPN,Japan,2006,energy_intensity,4.4
+JPN,Japan,2007,energy_intensity,4.3
+JPN,Japan,2008,energy_intensity,4.19
+JPN,Japan,2009,energy_intensity,4.26
+JPN,Japan,2010,energy_intensity,4.3
+JPN,Japan,2011,energy_intensity,3.98
+JPN,Japan,2012,energy_intensity,3.83
+JPN,Japan,2013,energy_intensity,3.78
+JPN,Japan,2014,energy_intensity,3.64
+JPN,Japan,2015,energy_intensity,3.53
+JPN,Japan,2016,energy_intensity,3.48
+JPN,Japan,2017,energy_intensity,3.44
+JPN,Japan,2018,energy_intensity,3.36
+JPN,Japan,2019,energy_intensity,3.29
+JPN,Japan,2020,energy_intensity,3.2
+JPN,Japan,2021,energy_intensity,3.25
+JPN,Japan,2022,energy_intensity,3.15
+JPN,Japan,2000,gdp_per_capita,39731.7953686304
+JPN,Japan,2001,gdp_per_capita,39748.9837725849
+JPN,Japan,2002,gdp_per_capita,39690.3676794625
+JPN,Japan,2003,gdp_per_capita,40152.1282635641
+JPN,Japan,2004,gdp_per_capita,40986.7225710497
+JPN,Japan,2005,gdp_per_capita,41740.352036905
+JPN,Japan,2006,gdp_per_capita,42358.9337348253
+JPN,Japan,2007,gdp_per_capita,43041.5697058021
+JPN,Japan,2008,gdp_per_capita,42518.8423408417
+JPN,Japan,2009,gdp_per_capita,39999.9464203408
+JPN,Japan,2010,gdp_per_capita,41647.0458542008
+JPN,Japan,2011,gdp_per_capita,41640.6608721251
+JPN,Japan,2012,gdp_per_capita,42394.9433175064
+JPN,Japan,2013,gdp_per_capita,43304.1181931426
+JPN,Japan,2014,gdp_per_capita,43754.438013293
+JPN,Japan,2015,gdp_per_capita,44589.3032854003
+JPN,Japan,2016,gdp_per_capita,44926.6202909525
+JPN,Japan,2017,gdp_per_capita,45693.3776080987
+JPN,Japan,2018,gdp_per_capita,46133.0225978718
+JPN,Japan,2019,gdp_per_capita,46055.3498672487
+JPN,Japan,2020,gdp_per_capita,44212.5503415724
+JPN,Japan,2021,gdp_per_capita,45999.4617966896
+JPN,Japan,2022,gdp_per_capita,46819.360613609
+JPN,Japan,2023,gdp_per_capita,47387.2172542523
+JPN,Japan,2024,gdp_per_capita,47479.8448545667
+JPN,Japan,2000,renewable_electricity,10.2781393693635
+JPN,Japan,2001,renewable_electricity,10.1699450211479
+JPN,Japan,2002,renewable_electricity,9.85338824915103
+JPN,Japan,2003,renewable_electricity,11.2211333327667
+JPN,Japan,2004,renewable_electricity,10.919454165101
+JPN,Japan,2005,renewable_electricity,9.57878351712967
+JPN,Japan,2006,renewable_electricity,10.5870701137256
+JPN,Japan,2007,renewable_electricity,9.27298936641637
+JPN,Japan,2008,renewable_electricity,9.46142018753925
+JPN,Japan,2009,renewable_electricity,9.66559557477652
+JPN,Japan,2010,renewable_electricity,9.67870045350893
+JPN,Japan,2011,renewable_electricity,10.4970838682726
+JPN,Japan,2012,renewable_electricity,10.0761044938698
+JPN,Japan,2013,renewable_electricity,10.8588465871834
+JPN,Japan,2014,renewable_electricity,12.3603567432125
+JPN,Japan,2015,renewable_electricity,14.178795710626
+JPN,Japan,2016,renewable_electricity,14.6993549399494
+JPN,Japan,2017,renewable_electricity,16.1972782442769
+JPN,Japan,2018,renewable_electricity,17.0618836938997
+JPN,Japan,2019,renewable_electricity,18.579181302767
+JPN,Japan,2020,renewable_electricity,20.2927882743076
+JPN,Japan,2021,renewable_electricity,21.1013762201952
+JPN,Japan,2000,renewable_share,3.7
+JPN,Japan,2001,renewable_share,3.5
+JPN,Japan,2002,renewable_share,3.7
+JPN,Japan,2003,renewable_share,4.2
+JPN,Japan,2004,renewable_share,4.3
+JPN,Japan,2005,renewable_share,4.0
+JPN,Japan,2006,renewable_share,4.4
+JPN,Japan,2007,renewable_share,4.3
+JPN,Japan,2008,renewable_share,4.4
+JPN,Japan,2009,renewable_share,4.5
+JPN,Japan,2010,renewable_share,4.7
+JPN,Japan,2011,renewable_share,4.8
+JPN,Japan,2012,renewable_share,4.7
+JPN,Japan,2013,renewable_share,5.0
+JPN,Japan,2014,renewable_share,5.6
+JPN,Japan,2015,renewable_share,6.2
+JPN,Japan,2016,renewable_share,6.4
+JPN,Japan,2017,renewable_share,6.9
+JPN,Japan,2018,renewable_share,7.3
+JPN,Japan,2019,renewable_share,7.8
+JPN,Japan,2020,renewable_share,8.5
+JPN,Japan,2021,renewable_share,8.8
+KOR,"Korea, Rep.",2000,co2_per_capita,9.9217579706617
+KOR,"Korea, Rep.",2001,co2_per_capita,10.0719727295012
+KOR,"Korea, Rep.",2002,co2_per_capita,10.3782797747059
+KOR,"Korea, Rep.",2003,co2_per_capita,10.5024332706302
+KOR,"Korea, Rep.",2004,co2_per_capita,10.8037309775721
+KOR,"Korea, Rep.",2005,co2_per_capita,10.7084009751588
+KOR,"Korea, Rep.",2006,co2_per_capita,10.8117127664204
+KOR,"Korea, Rep.",2007,co2_per_capita,11.1126206303646
+KOR,"Korea, Rep.",2008,co2_per_capita,11.2602688410662
+KOR,"Korea, Rep.",2009,co2_per_capita,11.2836813865383
+KOR,"Korea, Rep.",2010,co2_per_capita,12.3690482033055
+KOR,"Korea, Rep.",2011,co2_per_capita,12.9702684429817
+KOR,"Korea, Rep.",2012,co2_per_capita,12.8528563619499
+KOR,"Korea, Rep.",2013,co2_per_capita,12.7317329769662
+KOR,"Korea, Rep.",2014,co2_per_capita,12.4261677995393
+KOR,"Korea, Rep.",2015,co2_per_capita,12.6198190502874
+KOR,"Korea, Rep.",2016,co2_per_capita,12.6677788190173
+KOR,"Korea, Rep.",2017,co2_per_capita,12.952944838832
+KOR,"Korea, Rep.",2018,co2_per_capita,13.1917269531809
+KOR,"Korea, Rep.",2019,co2_per_capita,12.6531894575046
+KOR,"Korea, Rep.",2020,co2_per_capita,11.9094442789339
+KOR,"Korea, Rep.",2021,co2_per_capita,12.3387268331673
+KOR,"Korea, Rep.",2022,co2_per_capita,11.8737409785064
+KOR,"Korea, Rep.",2023,co2_per_capita,11.4162657281001
+KOR,"Korea, Rep.",2024,co2_per_capita,11.3622569893006
+KOR,"Korea, Rep.",2000,energy_intensity,7.23
+KOR,"Korea, Rep.",2001,energy_intensity,6.99
+KOR,"Korea, Rep.",2002,energy_intensity,6.82
+KOR,"Korea, Rep.",2003,energy_intensity,6.74
+KOR,"Korea, Rep.",2004,energy_intensity,6.59
+KOR,"Korea, Rep.",2005,energy_intensity,6.37
+KOR,"Korea, Rep.",2006,energy_intensity,6.15
+KOR,"Korea, Rep.",2007,energy_intensity,6.05
+KOR,"Korea, Rep.",2008,energy_intensity,6.0
+KOR,"Korea, Rep.",2009,energy_intensity,6.01
+KOR,"Korea, Rep.",2010,energy_intensity,6.14
+KOR,"Korea, Rep.",2011,energy_intensity,6.17
+KOR,"Korea, Rep.",2012,energy_intensity,6.09
+KOR,"Korea, Rep.",2013,energy_intensity,5.91
+KOR,"Korea, Rep.",2014,energy_intensity,5.83
+KOR,"Korea, Rep.",2015,energy_intensity,5.76
+KOR,"Korea, Rep.",2016,energy_intensity,5.79
+KOR,"Korea, Rep.",2017,energy_intensity,5.61
+KOR,"Korea, Rep.",2018,energy_intensity,5.45
+KOR,"Korea, Rep.",2019,energy_intensity,5.29
+KOR,"Korea, Rep.",2020,energy_intensity,5.25
+KOR,"Korea, Rep.",2021,energy_intensity,5.32
+KOR,"Korea, Rep.",2022,energy_intensity,5.11
+KOR,"Korea, Rep.",2000,gdp_per_capita,26404.1588575745
+KOR,"Korea, Rep.",2001,gdp_per_capita,27440.6564915847
+KOR,"Korea, Rep.",2002,gdp_per_capita,29395.2766036796
+KOR,"Korea, Rep.",2003,gdp_per_capita,30142.4605585814
+KOR,"Korea, Rep.",2004,gdp_per_capita,31579.5283048867
+KOR,"Korea, Rep.",2005,gdp_per_capita,32886.0472450743
+KOR,"Korea, Rep.",2006,gdp_per_capita,34429.6222013137
+KOR,"Korea, Rep.",2007,gdp_per_capita,36257.3401689702
+KOR,"Korea, Rep.",2008,gdp_per_capita,37064.1518484106
+KOR,"Korea, Rep.",2009,gdp_per_capita,37176.1939270969
+KOR,"Korea, Rep.",2010,gdp_per_capita,39574.0500732947
+KOR,"Korea, Rep.",2011,gdp_per_capita,40719.2273771671
+KOR,"Korea, Rep.",2012,gdp_per_capita,41537.6728611117
+KOR,"Korea, Rep.",2013,gdp_per_capita,42709.9751857887
+KOR,"Korea, Rep.",2014,gdp_per_capita,43806.9250985661
+KOR,"Korea, Rep.",2015,gdp_per_capita,44849.106767089
+KOR,"Korea, Rep.",2016,gdp_per_capita,46088.2430785383
+KOR,"Korea, Rep.",2017,gdp_per_capita,47536.7898568851
+KOR,"Korea, Rep.",2018,gdp_per_capita,48834.4471157733
+KOR,"Korea, Rep.",2019,gdp_per_capita,49790.8679884821
+KOR,"Korea, Rep.",2020,gdp_per_capita,49374.0926148025
+KOR,"Korea, Rep.",2021,gdp_per_capita,51718.2518656631
+KOR,"Korea, Rep.",2022,gdp_per_capita,53228.6035655365
+KOR,"Korea, Rep.",2023,gdp_per_capita,54029.3434990785
+KOR,"Korea, Rep.",2024,gdp_per_capita,55070.9386194121
+KOR,"Korea, Rep.",2000,renewable_electricity,1.97533853310966
+KOR,"Korea, Rep.",2001,renewable_electricity,1.96020895137366
+KOR,"Korea, Rep.",2002,renewable_electricity,1.68491069545361
+KOR,"Korea, Rep.",2003,renewable_electricity,2.05873343390032
+KOR,"Korea, Rep.",2004,renewable_electricity,1.66852928631973
+KOR,"Korea, Rep.",2005,renewable_electricity,1.43790883430735
+KOR,"Korea, Rep.",2006,renewable_electricity,1.4218289812567
+KOR,"Korea, Rep.",2007,renewable_electricity,1.47015351871194
+KOR,"Korea, Rep.",2008,renewable_electricity,1.62301759824585
+KOR,"Korea, Rep.",2009,renewable_electricity,1.72213081319407
+KOR,"Korea, Rep.",2010,renewable_electricity,1.80540634031265
+KOR,"Korea, Rep.",2011,renewable_electricity,2.06215564870229
+KOR,"Korea, Rep.",2012,renewable_electricity,2.0981828905031
+KOR,"Korea, Rep.",2013,renewable_electricity,2.3815750327539
+KOR,"Korea, Rep.",2014,renewable_electricity,2.48225916382072
+KOR,"Korea, Rep.",2015,renewable_electricity,2.60839570523595
+KOR,"Korea, Rep.",2016,renewable_electricity,3.49936183734199
+KOR,"Korea, Rep.",2017,renewable_electricity,3.91100036331978
+KOR,"Korea, Rep.",2018,renewable_electricity,4.49678515063246
+KOR,"Korea, Rep.",2019,renewable_electricity,5.18582991257534
+KOR,"Korea, Rep.",2020,renewable_electricity,6.27249191815822
+KOR,"Korea, Rep.",2021,renewable_electricity,6.65144502708922
+KOR,"Korea, Rep.",2000,renewable_share,0.7
+KOR,"Korea, Rep.",2001,renewable_share,0.7
+KOR,"Korea, Rep.",2002,renewable_share,0.7
+KOR,"Korea, Rep.",2003,renewable_share,0.8
+KOR,"Korea, Rep.",2004,renewable_share,0.8
+KOR,"Korea, Rep.",2005,renewable_share,0.9
+KOR,"Korea, Rep.",2006,renewable_share,0.9
+KOR,"Korea, Rep.",2007,renewable_share,1.0
+KOR,"Korea, Rep.",2008,renewable_share,1.1
+KOR,"Korea, Rep.",2009,renewable_share,1.2
+KOR,"Korea, Rep.",2010,renewable_share,1.3
+KOR,"Korea, Rep.",2011,renewable_share,1.4
+KOR,"Korea, Rep.",2012,renewable_share,1.6
+KOR,"Korea, Rep.",2013,renewable_share,1.9
+KOR,"Korea, Rep.",2014,renewable_share,2.9
+KOR,"Korea, Rep.",2015,renewable_share,2.7
+KOR,"Korea, Rep.",2016,renewable_share,2.6
+KOR,"Korea, Rep.",2017,renewable_share,2.8
+KOR,"Korea, Rep.",2018,renewable_share,3.2
+KOR,"Korea, Rep.",2019,renewable_share,3.2
+KOR,"Korea, Rep.",2020,renewable_share,3.6
+KOR,"Korea, Rep.",2021,renewable_share,3.6
+MEX,Mexico,2000,co2_per_capita,4.02272121123337
+MEX,Mexico,2001,co2_per_capita,3.94395058441036
+MEX,Mexico,2002,co2_per_capita,3.94830756150866
+MEX,Mexico,2003,co2_per_capita,4.08541432161845
+MEX,Mexico,2004,co2_per_capita,4.12339368005276
+MEX,Mexico,2005,co2_per_capita,4.22758379844974
+MEX,Mexico,2006,co2_per_capita,4.32571227914951
+MEX,Mexico,2007,co2_per_capita,4.32899168517287
+MEX,Mexico,2008,co2_per_capita,4.27910076303278
+MEX,Mexico,2009,co2_per_capita,4.12122098054155
+MEX,Mexico,2010,co2_per_capita,4.19755809286418
+MEX,Mexico,2011,co2_per_capita,4.22179978144365
+MEX,Mexico,2012,co2_per_capita,4.33350424276325
+MEX,Mexico,2013,co2_per_capita,4.17443117084187
+MEX,Mexico,2014,co2_per_capita,4.01481960973153
+MEX,Mexico,2015,co2_per_capita,4.05069677949307
+MEX,Mexico,2016,co2_per_capita,4.06104469144067
+MEX,Mexico,2017,co2_per_capita,4.05743329599921
+MEX,Mexico,2018,co2_per_capita,3.83831705872518
+MEX,Mexico,2019,co2_per_capita,3.92542377851696
+MEX,Mexico,2020,co2_per_capita,3.46247141559905
+MEX,Mexico,2021,co2_per_capita,3.54662489893704
+MEX,Mexico,2022,co2_per_capita,3.52183828963573
+MEX,Mexico,2023,co2_per_capita,3.66576524934041
+MEX,Mexico,2024,co2_per_capita,3.63738680384754
+MEX,Mexico,2000,energy_intensity,3.31
+MEX,Mexico,2001,energy_intensity,3.42
+MEX,Mexico,2002,energy_intensity,3.47
+MEX,Mexico,2003,energy_intensity,3.67
+MEX,Mexico,2004,energy_intensity,3.61
+MEX,Mexico,2005,energy_intensity,3.73
+MEX,Mexico,2006,energy_intensity,3.62
+MEX,Mexico,2007,energy_intensity,3.53
+MEX,Mexico,2008,energy_intensity,3.51
+MEX,Mexico,2009,energy_intensity,3.67
+MEX,Mexico,2010,energy_intensity,3.47
+MEX,Mexico,2011,energy_intensity,3.51
+MEX,Mexico,2012,energy_intensity,3.48
+MEX,Mexico,2013,energy_intensity,3.45
+MEX,Mexico,2014,energy_intensity,3.3
+MEX,Mexico,2015,energy_intensity,3.16
+MEX,Mexico,2016,energy_intensity,3.1
+MEX,Mexico,2017,energy_intensity,2.98
+MEX,Mexico,2018,energy_intensity,2.99
+MEX,Mexico,2019,energy_intensity,2.97
+MEX,Mexico,2020,energy_intensity,3.04
+MEX,Mexico,2021,energy_intensity,2.99
+MEX,Mexico,2022,energy_intensity,3.0
+MEX,Mexico,2000,gdp_per_capita,20470.4937669158
+MEX,Mexico,2001,gdp_per_capita,20078.2183931307
+MEX,Mexico,2002,gdp_per_capita,19744.7933675609
+MEX,Mexico,2003,gdp_per_capita,19701.4633898714
+MEX,Mexico,2004,gdp_per_capita,20127.2242902968
+MEX,Mexico,2005,gdp_per_capita,20277.2552852007
+MEX,Mexico,2006,gdp_per_capita,20965.8256087044
+MEX,Mexico,2007,gdp_per_capita,21102.2688338349
+MEX,Mexico,2008,gdp_per_capita,20992.5602662364
+MEX,Mexico,2009,gdp_per_capita,19385.5437251877
+MEX,Mexico,2010,gdp_per_capita,20058.3854882301
+MEX,Mexico,2011,gdp_per_capita,20457.6001677783
+MEX,Mexico,2012,gdp_per_capita,20898.935720908
+MEX,Mexico,2013,gdp_per_capita,20805.3480406564
+MEX,Mexico,2014,gdp_per_capita,21069.7661653886
+MEX,Mexico,2015,gdp_per_capita,21408.9283216195
+MEX,Mexico,2016,gdp_per_capita,21578.263354126
+MEX,Mexico,2017,gdp_per_capita,21777.5225127275
+MEX,Mexico,2018,gdp_per_capita,21997.7730219494
+MEX,Mexico,2019,gdp_per_capita,21704.185952748
+MEX,Mexico,2020,gdp_per_capita,19728.4817827455
+MEX,Mexico,2021,gdp_per_capita,20782.5877440905
+MEX,Mexico,2022,gdp_per_capita,21391.8573698845
+MEX,Mexico,2023,gdp_per_capita,21864.9236104145
+MEX,Mexico,2024,gdp_per_capita,21970.3520412926
+MEX,Mexico,2000,renewable_electricity,19.7951574085329
+MEX,Mexico,2001,renewable_electricity,17.0973512533413
+MEX,Mexico,2002,renewable_electricity,15.0462375298436
+MEX,Mexico,2003,renewable_electricity,12.1198939957751
+MEX,Mexico,2004,renewable_electricity,14.4424516905671
+MEX,Mexico,2005,renewable_electricity,15.1954515727685
+MEX,Mexico,2006,renewable_electricity,15.3321088746747
+MEX,Mexico,2007,renewable_electricity,14.0887356703145
+MEX,Mexico,2008,renewable_electricity,17.5374395686819
+MEX,Mexico,2009,renewable_electricity,12.9470743558429
+MEX,Mexico,2010,renewable_electricity,16.6020244105147
+MEX,Mexico,2011,renewable_electricity,14.8882176324282
+MEX,Mexico,2012,renewable_electricity,13.7854387797947
+MEX,Mexico,2013,renewable_electricity,13.2974152863029
+MEX,Mexico,2014,renewable_electricity,17.5321613957114
+MEX,Mexico,2015,renewable_electricity,15.2646075424702
+MEX,Mexico,2016,renewable_electricity,15.2957004707103
+MEX,Mexico,2017,renewable_electricity,15.9609952530472
+MEX,Mexico,2018,renewable_electricity,15.907939491332
+MEX,Mexico,2019,renewable_electricity,16.8771361269016
+MEX,Mexico,2020,renewable_electricity,20.7528854217573
+MEX,Mexico,2021,renewable_electricity,23.3762297959545
+MEX,Mexico,2000,renewable_share,12.2
+MEX,Mexico,2001,renewable_share,11.3
+MEX,Mexico,2002,renewable_share,10.7
+MEX,Mexico,2003,renewable_share,10.2
+MEX,Mexico,2004,renewable_share,10.2
+MEX,Mexico,2005,renewable_share,10.3
+MEX,Mexico,2006,renewable_share,9.8
+MEX,Mexico,2007,renewable_share,9.5
+MEX,Mexico,2008,renewable_share,9.8
+MEX,Mexico,2009,renewable_share,9.2
+MEX,Mexico,2010,renewable_share,9.4
+MEX,Mexico,2011,renewable_share,9.1
+MEX,Mexico,2012,renewable_share,9.0
+MEX,Mexico,2013,renewable_share,9.2
+MEX,Mexico,2014,renewable_share,9.8
+MEX,Mexico,2015,renewable_share,9.2
+MEX,Mexico,2016,renewable_share,9.2
+MEX,Mexico,2017,renewable_share,10.1
+MEX,Mexico,2018,renewable_share,10.3
+MEX,Mexico,2019,renewable_share,10.3
+MEX,Mexico,2020,renewable_share,12.3
+MEX,Mexico,2021,renewable_share,13.0
+RUS,Russian Federation,2000,co2_per_capita,11.4678581573253
+RUS,Russian Federation,2001,co2_per_capita,11.5380010322485
+RUS,Russian Federation,2002,co2_per_capita,11.5293860535362
+RUS,Russian Federation,2003,co2_per_capita,12.0101555342893
+RUS,Russian Federation,2004,co2_per_capita,12.0698465708905
+RUS,Russian Federation,2005,co2_per_capita,12.1189832296134
+RUS,Russian Federation,2006,co2_per_capita,12.4166473767424
+RUS,Russian Federation,2007,co2_per_capita,12.4578591772281
+RUS,Russian Federation,2008,co2_per_capita,12.3604193305861
+RUS,Russian Federation,2009,co2_per_capita,11.6405620274147
+RUS,Russian Federation,2010,co2_per_capita,12.2289345872818
+RUS,Russian Federation,2011,co2_per_capita,12.8138402250147
+RUS,Russian Federation,2012,co2_per_capita,12.6922981666833
+RUS,Russian Federation,2013,co2_per_capita,12.2682756012668
+RUS,Russian Federation,2014,co2_per_capita,12.1341694161707
+RUS,Russian Federation,2015,co2_per_capita,12.1481277789029
+RUS,Russian Federation,2016,co2_per_capita,11.961746699283
+RUS,Russian Federation,2017,co2_per_capita,12.1357322425004
+RUS,Russian Federation,2018,co2_per_capita,12.5939247104085
+RUS,Russian Federation,2019,co2_per_capita,12.7738739166789
+RUS,Russian Federation,2020,co2_per_capita,12.2840530273686
+RUS,Russian Federation,2021,co2_per_capita,13.3920757412176
+RUS,Russian Federation,2022,co2_per_capita,13.1413838368291
+RUS,Russian Federation,2023,co2_per_capita,13.5462339145189
+RUS,Russian Federation,2024,co2_per_capita,13.9845411189425
+RUS,Russian Federation,2000,energy_intensity,12.06
+RUS,Russian Federation,2001,energy_intensity,11.6
+RUS,Russian Federation,2002,energy_intensity,11.03
+RUS,Russian Federation,2003,energy_intensity,10.64
+RUS,Russian Federation,2004,energy_intensity,9.96
+RUS,Russian Federation,2005,energy_intensity,9.42
+RUS,Russian Federation,2006,energy_intensity,8.97
+RUS,Russian Federation,2007,energy_intensity,8.28
+RUS,Russian Federation,2008,energy_intensity,8.05
+RUS,Russian Federation,2009,energy_intensity,8.21
+RUS,Russian Federation,2010,energy_intensity,8.42
+RUS,Russian Federation,2011,energy_intensity,8.37
+RUS,Russian Federation,2012,energy_intensity,8.15
+RUS,Russian Federation,2013,energy_intensity,7.78
+RUS,Russian Federation,2014,energy_intensity,7.74
+RUS,Russian Federation,2015,energy_intensity,7.74
+RUS,Russian Federation,2016,energy_intensity,7.96
+RUS,Russian Federation,2017,energy_intensity,7.96
+RUS,Russian Federation,2018,energy_intensity,8.23
+RUS,Russian Federation,2019,energy_intensity,8.06
+RUS,Russian Federation,2020,energy_intensity,8.16
+RUS,Russian Federation,2021,energy_intensity,8.46
+RUS,Russian Federation,2000,gdp_per_capita,20104.75
+RUS,Russian Federation,2001,gdp_per_capita,21219.904296875
+RUS,Russian Federation,2002,gdp_per_capita,22319.677734375
+RUS,Russian Federation,2003,gdp_per_capita,24057.927734375
+RUS,Russian Federation,2004,gdp_per_capita,25894.146484375
+RUS,Russian Federation,2005,gdp_per_capita,27656.658203125
+RUS,Russian Federation,2006,gdp_per_capita,30022.671875
+RUS,Russian Federation,2007,gdp_per_capita,32630.369140625
+RUS,Russian Federation,2008,gdp_per_capita,34342.2265625
+RUS,Russian Federation,2009,gdp_per_capita,31654.00390625
+RUS,Russian Federation,2010,gdp_per_capita,33063.5859375
+RUS,Russian Federation,2011,gdp_per_capita,34444.64453125
+RUS,Russian Federation,2012,gdp_per_capita,35740.69921875
+RUS,Russian Federation,2013,gdp_per_capita,36260.06640625
+RUS,Russian Federation,2014,gdp_per_capita,35853.24609375
+RUS,Russian Federation,2015,gdp_per_capita,35037.15234375
+RUS,Russian Federation,2016,gdp_per_capita,35005.4453125
+RUS,Russian Federation,2017,gdp_per_capita,35570.703125
+RUS,Russian Federation,2018,gdp_per_capita,36536.6953125
+RUS,Russian Federation,2019,gdp_per_capita,37319.3203125
+RUS,Russian Federation,2020,gdp_per_capita,36376.3359375
+RUS,Russian Federation,2021,gdp_per_capita,38638.4296875
+RUS,Russian Federation,2022,gdp_per_capita,38214.69140625
+RUS,Russian Federation,2023,gdp_per_capita,39881.44921875
+RUS,Russian Federation,2024,gdp_per_capita,41891.171875
+RUS,Russian Federation,2000,renewable_electricity,18.9408099652983
+RUS,Russian Federation,2001,renewable_electricity,19.8380426440955
+RUS,Russian Federation,2002,renewable_electricity,18.5349837594036
+RUS,Russian Federation,2003,renewable_electricity,17.3491224355714
+RUS,Russian Federation,2004,renewable_electricity,19.2200533339057
+RUS,Russian Federation,2005,renewable_electricity,18.4826269612606
+RUS,Russian Federation,2006,renewable_electricity,17.7856142937194
+RUS,Russian Federation,2007,renewable_electricity,17.8079733447056
+RUS,Russian Federation,2008,renewable_electricity,16.2117737862837
+RUS,Russian Federation,2009,renewable_electricity,17.9528216294683
+RUS,Russian Federation,2010,renewable_electricity,16.4167991291196
+RUS,Russian Federation,2011,renewable_electricity,16.083166392514
+RUS,Russian Federation,2012,renewable_electricity,15.7505281423771
+RUS,Russian Federation,2013,renewable_electricity,17.4044757207117
+RUS,Russian Federation,2014,renewable_electricity,16.8125392898186
+RUS,Russian Federation,2015,renewable_electricity,16.0860086328994
+RUS,Russian Federation,2016,renewable_electricity,17.267672068878
+RUS,Russian Federation,2017,renewable_electricity,17.2767915316144
+RUS,Russian Federation,2018,renewable_electricity,17.5128908530499
+RUS,Russian Federation,2019,renewable_electricity,17.7904389866357
+RUS,Russian Federation,2020,renewable_electricity,20.0765885357637
+RUS,Russian Federation,2021,renewable_electricity,19.1544751840582
+RUS,Russian Federation,2000,renewable_share,3.5
+RUS,Russian Federation,2001,renewable_share,3.6
+RUS,Russian Federation,2002,renewable_share,3.5
+RUS,Russian Federation,2003,renewable_share,3.3
+RUS,Russian Federation,2004,renewable_share,3.5
+RUS,Russian Federation,2005,renewable_share,3.6
+RUS,Russian Federation,2006,renewable_share,3.5
+RUS,Russian Federation,2007,renewable_share,3.7
+RUS,Russian Federation,2008,renewable_share,3.3
+RUS,Russian Federation,2009,renewable_share,3.6
+RUS,Russian Federation,2010,renewable_share,3.3
+RUS,Russian Federation,2011,renewable_share,3.2
+RUS,Russian Federation,2012,renewable_share,3.2
+RUS,Russian Federation,2013,renewable_share,3.6
+RUS,Russian Federation,2014,renewable_share,3.3
+RUS,Russian Federation,2015,renewable_share,3.2
+RUS,Russian Federation,2016,renewable_share,3.4
+RUS,Russian Federation,2017,renewable_share,3.2
+RUS,Russian Federation,2018,renewable_share,3.2
+RUS,Russian Federation,2019,renewable_share,3.2
+RUS,Russian Federation,2020,renewable_share,3.7
+RUS,Russian Federation,2021,renewable_share,3.5
+SAU,Saudi Arabia,2000,co2_per_capita,16.3953985610582
+SAU,Saudi Arabia,2001,co2_per_capita,16.1835734476463
+SAU,Saudi Arabia,2002,co2_per_capita,16.3991276825131
+SAU,Saudi Arabia,2003,co2_per_capita,16.4119297375647
+SAU,Saudi Arabia,2004,co2_per_capita,16.6257165924061
+SAU,Saudi Arabia,2005,co2_per_capita,16.8475463633317
+SAU,Saudi Arabia,2006,co2_per_capita,17.0903135744837
+SAU,Saudi Arabia,2007,co2_per_capita,17.3405924711443
+SAU,Saudi Arabia,2008,co2_per_capita,18.0563174565032
+SAU,Saudi Arabia,2009,co2_per_capita,18.3345628771474
+SAU,Saudi Arabia,2010,co2_per_capita,20.3047423300728
+SAU,Saudi Arabia,2011,co2_per_capita,20.2940259487267
+SAU,Saudi Arabia,2012,co2_per_capita,20.6100945700312
+SAU,Saudi Arabia,2013,co2_per_capita,19.8087286694572
+SAU,Saudi Arabia,2014,co2_per_capita,20.6973806780556
+SAU,Saudi Arabia,2015,co2_per_capita,20.5071259148746
+SAU,Saudi Arabia,2016,co2_per_capita,19.6907023725829
+SAU,Saudi Arabia,2017,co2_per_capita,19.4764691820848
+SAU,Saudi Arabia,2018,co2_per_capita,19.2090840590601
+SAU,Saudi Arabia,2019,co2_per_capita,19.2859458646594
+SAU,Saudi Arabia,2020,co2_per_capita,18.2902881577409
+SAU,Saudi Arabia,2021,co2_per_capita,19.1759893319934
+SAU,Saudi Arabia,2022,co2_per_capita,19.282874301046
+SAU,Saudi Arabia,2023,co2_per_capita,18.8540744665469
+SAU,Saudi Arabia,2024,co2_per_capita,18.4845842582552
+SAU,Saudi Arabia,2000,energy_intensity,5.14
+SAU,Saudi Arabia,2001,energy_intensity,5.36
+SAU,Saudi Arabia,2002,energy_intensity,6.23
+SAU,Saudi Arabia,2003,energy_intensity,5.61
+SAU,Saudi Arabia,2004,energy_intensity,5.09
+SAU,Saudi Arabia,2005,energy_intensity,5.09
+SAU,Saudi Arabia,2006,energy_intensity,5.34
+SAU,Saudi Arabia,2007,energy_intensity,5.52
+SAU,Saudi Arabia,2008,energy_intensity,5.72
+SAU,Saudi Arabia,2009,energy_intensity,6.32
+SAU,Saudi Arabia,2010,energy_intensity,6.7
+SAU,Saudi Arabia,2011,energy_intensity,6.3
+SAU,Saudi Arabia,2012,energy_intensity,6.18
+SAU,Saudi Arabia,2013,energy_intensity,5.94
+SAU,Saudi Arabia,2014,energy_intensity,6.32
+SAU,Saudi Arabia,2015,energy_intensity,6.17
+SAU,Saudi Arabia,2016,energy_intensity,6.07
+SAU,Saudi Arabia,2017,energy_intensity,6.18
+SAU,Saudi Arabia,2018,energy_intensity,5.81
+SAU,Saudi Arabia,2019,energy_intensity,5.76
+SAU,Saudi Arabia,2020,energy_intensity,5.95
+SAU,Saudi Arabia,2021,energy_intensity,5.81
+SAU,Saudi Arabia,2000,gdp_per_capita,55962.2661342789
+SAU,Saudi Arabia,2001,gdp_per_capita,53309.111388544
+SAU,Saudi Arabia,2002,gdp_per_capita,50371.9783079834
+SAU,Saudi Arabia,2003,gdp_per_capita,52234.649280791
+SAU,Saudi Arabia,2004,gdp_per_capita,54196.5514152953
+SAU,Saudi Arabia,2005,gdp_per_capita,54931.7942450845
+SAU,Saudi Arabia,2006,gdp_per_capita,54373.737695386
+SAU,Saudi Arabia,2007,gdp_per_capita,53318.4191601834
+SAU,Saudi Arabia,2008,gdp_per_capita,54407.7081673247
+SAU,Saudi Arabia,2009,gdp_per_capita,51760.7643987566
+SAU,Saudi Arabia,2010,gdp_per_capita,54911.547517012
+SAU,Saudi Arabia,2011,gdp_per_capita,58645.4459416531
+SAU,Saudi Arabia,2012,gdp_per_capita,59471.7001909394
+SAU,Saudi Arabia,2013,gdp_per_capita,57998.4644619155
+SAU,Saudi Arabia,2014,gdp_per_capita,58872.2671400126
+SAU,Saudi Arabia,2015,gdp_per_capita,58498.5399040699
+SAU,Saudi Arabia,2016,gdp_per_capita,57308.4484127497
+SAU,Saudi Arabia,2017,gdp_per_capita,57942.5484983044
+SAU,Saudi Arabia,2018,gdp_per_capita,61359.4653740388
+SAU,Saudi Arabia,2019,gdp_per_capita,62647.7299487842
+SAU,Saudi Arabia,2020,gdp_per_capita,57420.7335736424
+SAU,Saudi Arabia,2021,gdp_per_capita,62690.4966645929
+SAU,Saudi Arabia,2022,gdp_per_capita,67178.5902274906
+SAU,Saudi Arabia,2023,gdp_per_capita,64481.8441927288
+SAU,Saudi Arabia,2024,gdp_per_capita,63194.4332528832
+SAU,Saudi Arabia,2000,renewable_electricity,0.00048339421987305
+SAU,Saudi Arabia,2001,renewable_electricity,0.000456337480269015
+SAU,Saudi Arabia,2002,renewable_electricity,0.000430377603431732
+SAU,Saudi Arabia,2003,renewable_electricity,0.000398692810457516
+SAU,Saudi Arabia,2004,renewable_electricity,0.00038154808444097
+SAU,Saudi Arabia,2005,renewable_electricity,0.000346346891962481
+SAU,Saudi Arabia,2006,renewable_electricity,0.000336210412601828
+SAU,Saudi Arabia,2007,renewable_electricity,0.000320151153331409
+SAU,Saudi Arabia,2008,renewable_electricity,0.000298726738491675
+SAU,Saudi Arabia,2009,renewable_electricity,0.000280999806524723
+SAU,Saudi Arabia,2010,renewable_electricity,0.00170366266646117
+SAU,Saudi Arabia,2011,renewable_electricity,0.00215529306387505
+SAU,Saudi Arabia,2012,renewable_electricity,0.00886173073333932
+SAU,Saudi Arabia,2013,renewable_electricity,0.0140168413272444
+SAU,Saudi Arabia,2014,renewable_electricity,0.0136094779869363
+SAU,Saudi Arabia,2015,renewable_electricity,0.0127345044562439
+SAU,Saudi Arabia,2016,renewable_electricity,0.0124340423917374
+SAU,Saudi Arabia,2017,renewable_electricity,0.0184114400771668
+SAU,Saudi Arabia,2018,renewable_electricity,0.0562251679456406
+SAU,Saudi Arabia,2019,renewable_electricity,0.068837561920283
+SAU,Saudi Arabia,2020,renewable_electricity,0.06764821408208
+SAU,Saudi Arabia,2021,renewable_electricity,0.0652981651937175
+SAU,Saudi Arabia,2000,renewable_share,0.0
+SAU,Saudi Arabia,2001,renewable_share,0.0
+SAU,Saudi Arabia,2002,renewable_share,0.0
+SAU,Saudi Arabia,2003,renewable_share,0.0
+SAU,Saudi Arabia,2004,renewable_share,0.0
+SAU,Saudi Arabia,2005,renewable_share,0.0
+SAU,Saudi Arabia,2006,renewable_share,0.0
+SAU,Saudi Arabia,2007,renewable_share,0.0
+SAU,Saudi Arabia,2008,renewable_share,0.0
+SAU,Saudi Arabia,2009,renewable_share,0.0
+SAU,Saudi Arabia,2010,renewable_share,0.0
+SAU,Saudi Arabia,2011,renewable_share,0.0
+SAU,Saudi Arabia,2012,renewable_share,0.0
+SAU,Saudi Arabia,2013,renewable_share,0.0
+SAU,Saudi Arabia,2014,renewable_share,0.0
+SAU,Saudi Arabia,2015,renewable_share,0.0
+SAU,Saudi Arabia,2016,renewable_share,0.0
+SAU,Saudi Arabia,2017,renewable_share,0.0
+SAU,Saudi Arabia,2018,renewable_share,0.0
+SAU,Saudi Arabia,2019,renewable_share,0.0
+SAU,Saudi Arabia,2020,renewable_share,0.1
+SAU,Saudi Arabia,2021,renewable_share,0.1
+TUR,Turkiye,2000,co2_per_capita,3.47043278431936
+TUR,Turkiye,2001,co2_per_capita,3.1206808144442
+TUR,Turkiye,2002,co2_per_capita,3.24208511129842
+TUR,Turkiye,2003,co2_per_capita,3.38625448591684
+TUR,Turkiye,2004,co2_per_capita,3.43889343076092
+TUR,Turkiye,2005,co2_per_capita,3.5495611200862
+TUR,Turkiye,2006,co2_per_capita,3.91176721812036
+TUR,Turkiye,2007,co2_per_capita,4.28079364507414
+TUR,Turkiye,2008,co2_per_capita,4.21593984029483
+TUR,Turkiye,2009,co2_per_capita,4.1835136272879
+TUR,Turkiye,2010,co2_per_capita,4.26801919276368
+TUR,Turkiye,2011,co2_per_capita,4.48332295905392
+TUR,Turkiye,2012,co2_per_capita,4.57803809727294
+TUR,Turkiye,2013,co2_per_capita,4.38456228128668
+TUR,Turkiye,2014,co2_per_capita,4.60446003106117
+TUR,Turkiye,2015,co2_per_capita,4.70276339686943
+TUR,Turkiye,2016,co2_per_capita,4.93533246982308
+TUR,Turkiye,2017,co2_per_capita,5.39416444458135
+TUR,Turkiye,2018,co2_per_capita,5.27401972926131
+TUR,Turkiye,2019,co2_per_capita,5.01913672458907
+TUR,Turkiye,2020,co2_per_capita,5.07395962903497
+TUR,Turkiye,2021,co2_per_capita,5.47500634541911
+TUR,Turkiye,2022,co2_per_capita,5.22956172007378
+TUR,Turkiye,2023,co2_per_capita,5.23215412799609
+TUR,Turkiye,2024,co2_per_capita,5.37926453268486
+TUR,Turkiye,2000,energy_intensity,3.25
+TUR,Turkiye,2001,energy_intensity,3.17
+TUR,Turkiye,2002,energy_intensity,3.15
+TUR,Turkiye,2003,energy_intensity,3.16
+TUR,Turkiye,2004,energy_intensity,2.95
+TUR,Turkiye,2005,energy_intensity,2.82
+TUR,Turkiye,2006,energy_intensity,2.92
+TUR,Turkiye,2007,energy_intensity,2.99
+TUR,Turkiye,2008,energy_intensity,2.91
+TUR,Turkiye,2009,energy_intensity,3.06
+TUR,Turkiye,2010,energy_intensity,3.03
+TUR,Turkiye,2011,energy_intensity,2.9
+TUR,Turkiye,2012,energy_intensity,2.9
+TUR,Turkiye,2013,energy_intensity,2.61
+TUR,Turkiye,2014,energy_intensity,2.57
+TUR,Turkiye,2015,energy_intensity,2.62
+TUR,Turkiye,2016,energy_intensity,2.7
+TUR,Turkiye,2017,energy_intensity,2.69
+TUR,Turkiye,2018,energy_intensity,2.57
+TUR,Turkiye,2019,energy_intensity,2.59
+TUR,Turkiye,2020,energy_intensity,2.55
+TUR,Turkiye,2021,energy_intensity,2.48
+TUR,Turkiye,2022,energy_intensity,2.27
+TUR,Turkiye,2000,gdp_per_capita,14856.914625257
+TUR,Turkiye,2001,gdp_per_capita,13872.1287284566
+TUR,Turkiye,2002,gdp_per_capita,14587.894621656
+TUR,Turkiye,2003,gdp_per_capita,15255.7177960689
+TUR,Turkiye,2004,gdp_per_capita,16583.8837094062
+TUR,Turkiye,2005,gdp_per_capita,17902.5966004487
+TUR,Turkiye,2006,gdp_per_capita,18972.0089563632
+TUR,Turkiye,2007,gdp_per_capita,19909.083519675
+TUR,Turkiye,2008,gdp_per_capita,19839.5845462269
+TUR,Turkiye,2009,gdp_per_capita,18612.1925231905
+TUR,Turkiye,2010,gdp_per_capita,19897.4464836887
+TUR,Turkiye,2011,gdp_per_capita,21760.4291923634
+TUR,Turkiye,2012,gdp_per_capita,22517.7148287875
+TUR,Turkiye,2013,gdp_per_capita,24117.3121099839
+TUR,Turkiye,2014,gdp_per_capita,24888.8521742576
+TUR,Turkiye,2015,gdp_per_capita,25984.8027306177
+TUR,Turkiye,2016,gdp_per_capita,26489.6436816046
+TUR,Turkiye,2017,gdp_per_capita,28194.688309381
+TUR,Turkiye,2018,gdp_per_capita,28780.3036458151
+TUR,Turkiye,2019,gdp_per_capita,28741.0535082701
+TUR,Turkiye,2020,gdp_per_capita,28976.7179161611
+TUR,Turkiye,2021,gdp_per_capita,32105.5474400506
+TUR,Turkiye,2022,gdp_per_capita,33520.8111384208
+TUR,Turkiye,2023,gdp_per_capita,35069.1701714685
+TUR,Turkiye,2024,gdp_per_capita,36154.490436557
+TUR,Turkiye,2000,renewable_electricity,24.9388818622821
+TUR,Turkiye,2001,renewable_electricity,19.8382155225097
+TUR,Turkiye,2002,renewable_electricity,26.2495285935085
+TUR,Turkiye,2003,renewable_electricity,25.2953741970821
+TUR,Turkiye,2004,renewable_electricity,30.732478201436
+TUR,Turkiye,2005,renewable_electricity,24.5440551754798
+TUR,Turkiye,2006,renewable_electricity,25.2556735999637
+TUR,Turkiye,2007,renewable_electricity,19.0341045531902
+TUR,Turkiye,2008,renewable_electricity,17.3506335110726
+TUR,Turkiye,2009,renewable_electricity,19.5821920620906
+TUR,Turkiye,2010,renewable_electricity,26.3818037195561
+TUR,Turkiye,2011,renewable_electricity,25.3319717689729
+TUR,Turkiye,2012,renewable_electricity,27.2382252730735
+TUR,Turkiye,2013,renewable_electricity,28.8353931227462
+TUR,Turkiye,2014,renewable_electricity,20.8888686037236
+TUR,Turkiye,2015,renewable_electricity,31.9582364019054
+TUR,Turkiye,2016,renewable_electricity,32.8881446605055
+TUR,Turkiye,2017,renewable_electricity,29.3458592491178
+TUR,Turkiye,2018,renewable_electricity,32.0769912172204
+TUR,Turkiye,2019,renewable_electricity,43.522591535948
+TUR,Turkiye,2020,renewable_electricity,41.8476963055464
+TUR,Turkiye,2021,renewable_electricity,35.4189464124067
+TUR,Turkiye,2000,renewable_share,17.3
+TUR,Turkiye,2001,renewable_share,18.1
+TUR,Turkiye,2002,renewable_share,17.5
+TUR,Turkiye,2003,renewable_share,16.3
+TUR,Turkiye,2004,renewable_share,16.8
+TUR,Turkiye,2005,renewable_share,15.3
+TUR,Turkiye,2006,renewable_share,14.2
+TUR,Turkiye,2007,renewable_share,12.5
+TUR,Turkiye,2008,renewable_share,12.5
+TUR,Turkiye,2009,renewable_share,13.1
+TUR,Turkiye,2010,renewable_share,14.2
+TUR,Turkiye,2011,renewable_share,12.7
+TUR,Turkiye,2012,renewable_share,13.0
+TUR,Turkiye,2013,renewable_share,13.8
+TUR,Turkiye,2014,renewable_share,11.5
+TUR,Turkiye,2015,renewable_share,13.3
+TUR,Turkiye,2016,renewable_share,13.2
+TUR,Turkiye,2017,renewable_share,11.4
+TUR,Turkiye,2018,renewable_share,11.8
+TUR,Turkiye,2019,renewable_share,14.1
+TUR,Turkiye,2020,renewable_share,13.7
+TUR,Turkiye,2021,renewable_share,12.0
+USA,United States,2000,co2_per_capita,21.0118753202743
+USA,United States,2001,co2_per_capita,20.6255077855762
+USA,United States,2002,co2_per_capita,19.9103793387111
+USA,United States,2003,co2_per_capita,19.9681657791826
+USA,United States,2004,co2_per_capita,20.0815597947275
+USA,United States,2005,co2_per_capita,19.9249914215479
+USA,United States,2006,co2_per_capita,19.4048177077015
+USA,United States,2007,co2_per_capita,19.4956606869752
+USA,United States,2008,co2_per_capita,18.7089026291301
+USA,United States,2009,co2_per_capita,17.1890632001903
+USA,United States,2010,co2_per_capita,17.847084306938
+USA,United States,2011,co2_per_capita,17.0203888981196
+USA,United States,2012,co2_per_capita,16.1854221004814
+USA,United States,2013,co2_per_capita,16.495975221911
+USA,United States,2014,co2_per_capita,16.4248953102317
+USA,United States,2015,co2_per_capita,15.9501022949136
+USA,United States,2016,co2_per_capita,15.5045482189269
+USA,United States,2017,co2_per_capita,15.1847127213968
+USA,United States,2018,co2_per_capita,15.5796456645972
+USA,United States,2019,co2_per_capita,15.0439662080505
+USA,United States,2020,co2_per_capita,13.4715665664099
+USA,United States,2021,co2_per_capita,14.3160979329351
+USA,United States,2022,co2_per_capita,14.4186221294233
+USA,United States,2023,co2_per_capita,13.7140258849034
+USA,United States,2024,co2_per_capita,13.6238622652793
+USA,United States,2000,energy_intensity,6.72
+USA,United States,2001,energy_intensity,6.53
+USA,United States,2002,energy_intensity,6.5
+USA,United States,2003,energy_intensity,6.33
+USA,United States,2004,energy_intensity,6.23
+USA,United States,2005,energy_intensity,6.04
+USA,United States,2006,energy_intensity,5.82
+USA,United States,2007,energy_intensity,5.81
+USA,United States,2008,energy_intensity,5.65
+USA,United States,2009,energy_intensity,5.52
+USA,United States,2010,energy_intensity,5.5
+USA,United States,2011,energy_intensity,5.34
+USA,United States,2012,energy_intensity,5.13
+USA,United States,2013,energy_intensity,5.12
+USA,United States,2014,energy_intensity,5.07
+USA,United States,2015,energy_intensity,4.88
+USA,United States,2016,energy_intensity,4.75
+USA,United States,2017,energy_intensity,4.63
+USA,United States,2018,energy_intensity,4.62
+USA,United States,2019,energy_intensity,4.51
+USA,United States,2020,energy_intensity,4.27
+USA,United States,2021,energy_intensity,4.24
+USA,United States,2022,energy_intensity,4.17
+USA,United States,2000,gdp_per_capita,55045.6745311559
+USA,United States,2001,gdp_per_capita,55024.3542766281
+USA,United States,2002,gdp_per_capita,55443.2199435683
+USA,United States,2003,gdp_per_capita,56505.4468784112
+USA,United States,2004,gdp_per_capita,58139.0820195229
+USA,United States,2005,gdp_per_capita,59612.3907215559
+USA,United States,2006,gdp_per_capita,60684.3399832539
+USA,United States,2007,gdp_per_capita,61314.4520816367
+USA,United States,2008,gdp_per_capita,60806.2238713713
+USA,United States,2009,gdp_per_capita,58722.496767251
+USA,United States,2010,gdp_per_capita,59797.0736545937
+USA,United States,2011,gdp_per_capita,60253.2035796719
+USA,United States,2012,gdp_per_capita,61142.3637034265
+USA,United States,2013,gdp_per_capita,61966.6621370894
+USA,United States,2014,gdp_per_capita,63026.8779187814
+USA,United States,2015,gdp_per_capita,64367.7188912582
+USA,United States,2016,gdp_per_capita,65025.9855980616
+USA,United States,2017,gdp_per_capita,66164.0320014289
+USA,United States,2018,gdp_per_capita,67728.4424921024
+USA,United States,2019,gdp_per_capita,69121.4580016741
+USA,United States,2020,gdp_per_capita,67406.8311325507
+USA,United States,2021,gdp_per_capita,71441.231980595
+USA,United States,2022,gdp_per_capita,72828.7430907189
+USA,United States,2023,gdp_per_capita,74351.6718197429
+USA,United States,2024,gdp_per_capita,75698.1773354629
+USA,United States,2000,renewable_electricity,8.81261648193646
+USA,United States,2001,renewable_electricity,7.42248933913917
+USA,United States,2002,renewable_electricity,9.20382511502992
+USA,United States,2003,renewable_electricity,9.4946204631135
+USA,United States,2004,renewable_electricity,9.21619811557572
+USA,United States,2005,renewable_electricity,9.12092303221335
+USA,United States,2006,renewable_electricity,9.78948021905534
+USA,United States,2007,renewable_electricity,8.91391202574991
+USA,United States,2008,renewable_electricity,9.5301997751508
+USA,United States,2009,renewable_electricity,10.7806308892929
+USA,United States,2010,renewable_electricity,10.6143983117236
+USA,United States,2011,renewable_electricity,12.686393699636
+USA,United States,2012,renewable_electricity,12.4129621083936
+USA,United States,2013,renewable_electricity,13.0285802128985
+USA,United States,2014,renewable_electricity,13.3792940741702
+USA,United States,2015,renewable_electricity,13.6328082889697
+USA,United States,2016,renewable_electricity,15.2594449655463
+USA,United States,2017,renewable_electricity,17.2854220343839
+USA,United States,2018,renewable_electricity,17.1628863424875
+USA,United States,2019,renewable_electricity,17.938273721697
+USA,United States,2020,renewable_electricity,19.9166987281584
+USA,United States,2021,renewable_electricity,20.2733089261925
+USA,United States,2000,renewable_share,5.4
+USA,United States,2001,renewable_share,4.7
+USA,United States,2002,renewable_share,4.8
+USA,United States,2003,renewable_share,5.3
+USA,United States,2004,renewable_share,5.5
+USA,United States,2005,renewable_share,5.8
+USA,United States,2006,renewable_share,6.4
+USA,United States,2007,renewable_share,6.3
+USA,United States,2008,renewable_share,6.8
+USA,United States,2009,renewable_share,7.3
+USA,United States,2010,renewable_share,7.4
+USA,United States,2011,renewable_share,8.4
+USA,United States,2012,renewable_share,8.5
+USA,United States,2013,renewable_share,8.9
+USA,United States,2014,renewable_share,9.0
+USA,United States,2015,renewable_share,8.9
+USA,United States,2016,renewable_share,9.3
+USA,United States,2017,renewable_share,9.7
+USA,United States,2018,renewable_share,9.9
+USA,United States,2019,renewable_share,10.2
+USA,United States,2020,renewable_share,11.0
+USA,United States,2021,renewable_share,10.9
+ZAF,South Africa,2000,co2_per_capita,7.36397941641679
+ZAF,South Africa,2001,co2_per_capita,7.51319828115408
+ZAF,South Africa,2002,co2_per_capita,7.72131022420827
+ZAF,South Africa,2003,co2_per_capita,8.11491084558816
+ZAF,South Africa,2004,co2_per_capita,8.69023374521021
+ZAF,South Africa,2005,co2_per_capita,8.81501533854301
+ZAF,South Africa,2006,co2_per_capita,8.81243167639557
+ZAF,South Africa,2007,co2_per_capita,9.10281000552084
+ZAF,South Africa,2008,co2_per_capita,9.54569945858325
+ZAF,South Africa,2009,co2_per_capita,8.83353970564321
+ZAF,South Africa,2010,co2_per_capita,8.87117430020844
+ZAF,South Africa,2011,co2_per_capita,8.37758623633968
+ZAF,South Africa,2012,co2_per_capita,8.57667504044573
+ZAF,South Africa,2013,co2_per_capita,8.68872722515024
+ZAF,South Africa,2014,co2_per_capita,8.75262375978144
+ZAF,South Africa,2015,co2_per_capita,8.14948651738695
+ZAF,South Africa,2016,co2_per_capita,8.03701551903542
+ZAF,South Africa,2017,co2_per_capita,8.14751418587147
+ZAF,South Africa,2018,co2_per_capita,8.077016906198
+ZAF,South Africa,2019,co2_per_capita,8.01412233375962
+ZAF,South Africa,2020,co2_per_capita,7.4445834618028
+ZAF,South Africa,2021,co2_per_capita,7.29340675223128
+ZAF,South Africa,2022,co2_per_capita,6.88263936192025
+ZAF,South Africa,2023,co2_per_capita,6.75922774879049
+ZAF,South Africa,2024,co2_per_capita,6.87684962627712
+ZAF,South Africa,2000,energy_intensity,9.22
+ZAF,South Africa,2001,energy_intensity,8.65
+ZAF,South Africa,2002,energy_intensity,7.94
+ZAF,South Africa,2003,energy_intensity,8.64
+ZAF,South Africa,2004,energy_intensity,9.01
+ZAF,South Africa,2005,energy_intensity,8.22
+ZAF,South Africa,2006,energy_intensity,7.93
+ZAF,South Africa,2007,energy_intensity,8.18
+ZAF,South Africa,2008,energy_intensity,8.59
+ZAF,South Africa,2009,energy_intensity,8.84
+ZAF,South Africa,2010,energy_intensity,7.98
+ZAF,South Africa,2011,energy_intensity,7.87
+ZAF,South Africa,2012,energy_intensity,7.35
+ZAF,South Africa,2013,energy_intensity,7.12
+ZAF,South Africa,2014,energy_intensity,7.43
+ZAF,South Africa,2015,energy_intensity,6.93
+ZAF,South Africa,2016,energy_intensity,7.14
+ZAF,South Africa,2017,energy_intensity,7.02
+ZAF,South Africa,2018,energy_intensity,6.72
+ZAF,South Africa,2019,energy_intensity,6.72
+ZAF,South Africa,2020,energy_intensity,6.9
+ZAF,South Africa,2021,energy_intensity,6.57
+ZAF,South Africa,2000,gdp_per_capita,11183.825503143
+ZAF,South Africa,2001,gdp_per_capita,11387.492366782
+ZAF,South Africa,2002,gdp_per_capita,11697.5657261687
+ZAF,South Africa,2003,gdp_per_capita,11923.1211013633
+ZAF,South Africa,2004,gdp_per_capita,12341.2102655828
+ZAF,South Africa,2005,gdp_per_capita,12861.5633089114
+ZAF,South Africa,2006,gdp_per_capita,13444.2332126058
+ZAF,South Africa,2007,gdp_per_capita,14016.2444716386
+ZAF,South Africa,2008,gdp_per_capita,14297.6887802632
+ZAF,South Africa,2009,gdp_per_capita,13910.7017093394
+ZAF,South Africa,2010,gdp_per_capita,14164.9958363115
+ZAF,South Africa,2011,gdp_per_capita,14434.2611456048
+ZAF,South Africa,2012,gdp_per_capita,14563.7624041032
+ZAF,South Africa,2013,gdp_per_capita,14681.096638957
+ZAF,South Africa,2014,gdp_per_capita,14643.3384782936
+ZAF,South Africa,2015,gdp_per_capita,14541.6748613669
+ZAF,South Africa,2016,gdp_per_capita,14501.2807823402
+ZAF,South Africa,2017,gdp_per_capita,14573.5980840004
+ZAF,South Africa,2018,gdp_per_capita,14553.5615668957
+ZAF,South Africa,2019,gdp_per_capita,14352.6698709871
+ZAF,South Africa,2020,gdp_per_capita,13250.5666594456
+ZAF,South Africa,2021,gdp_per_capita,13681.9548144813
+ZAF,South Africa,2022,gdp_per_capita,13767.4967589936
+ZAF,South Africa,2023,gdp_per_capita,13695.3755694076
+ZAF,South Africa,2024,gdp_per_capita,13597.6538495998
+ZAF,South Africa,2000,renewable_electricity,2.00085441686049
+ZAF,South Africa,2001,renewable_electricity,2.10604950023798
+ZAF,South Africa,2002,renewable_electricity,1.87427405644339
+ZAF,South Africa,2003,renewable_electricity,1.74180396108082
+ZAF,South Africa,2004,renewable_electricity,1.94551624046933
+ZAF,South Africa,2005,renewable_electricity,1.87487853275737
+ZAF,South Africa,2006,renewable_electricity,2.15545827784301
+ZAF,South Africa,2007,renewable_electricity,1.73369414640256
+ZAF,South Africa,2008,renewable_electricity,1.64048302108862
+ZAF,South Africa,2009,renewable_electricity,1.75400810235738
+ZAF,South Africa,2010,renewable_electricity,1.9412714126679
+ZAF,South Africa,2011,renewable_electricity,1.99910108250996
+ZAF,South Africa,2012,renewable_electricity,1.80764503584459
+ZAF,South Africa,2013,renewable_electricity,1.73565741019162
+ZAF,South Africa,2014,renewable_electricity,2.14258565670803
+ZAF,South Africa,2015,renewable_electricity,2.67115419278604
+ZAF,South Africa,2016,renewable_electricity,3.10190031929162
+ZAF,South Africa,2017,renewable_electricity,4.18104603855229
+ZAF,South Africa,2018,renewable_electricity,4.87685113320359
+ZAF,South Africa,2019,renewable_electricity,5.24124159386961
+ZAF,South Africa,2020,renewable_electricity,6.0119154479148
+ZAF,South Africa,2021,renewable_electricity,6.44786393924166
+ZAF,South Africa,2000,renewable_share,16.2
+ZAF,South Africa,2001,renewable_share,15.0
+ZAF,South Africa,2002,renewable_share,13.3
+ZAF,South Africa,2003,renewable_share,11.8
+ZAF,South Africa,2004,renewable_share,11.0
+ZAF,South Africa,2005,renewable_share,9.7
+ZAF,South Africa,2006,renewable_share,9.3
+ZAF,South Africa,2007,renewable_share,8.7
+ZAF,South Africa,2008,renewable_share,9.7
+ZAF,South Africa,2009,renewable_share,9.2
+ZAF,South Africa,2010,renewable_share,9.4
+ZAF,South Africa,2011,renewable_share,9.0
+ZAF,South Africa,2012,renewable_share,8.3
+ZAF,South Africa,2013,renewable_share,7.8
+ZAF,South Africa,2014,renewable_share,7.6
+ZAF,South Africa,2015,renewable_share,7.6
+ZAF,South Africa,2016,renewable_share,7.8
+ZAF,South Africa,2017,renewable_share,7.9
+ZAF,South Africa,2018,renewable_share,8.0
+ZAF,South Africa,2019,renewable_share,8.7
+ZAF,South Africa,2020,renewable_share,9.8
+ZAF,South Africa,2021,renewable_share,9.7
