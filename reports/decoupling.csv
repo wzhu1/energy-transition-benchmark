@@ -1,0 +1,20 @@
+iso3,gdp_pc_growth_pct,co2_pc_change_pct,status
+GBR,12.02,-47.09,absolute decoupling
+FRA,11.54,-31.0,absolute decoupling
+DEU,14.28,-30.32,absolute decoupling
+ITA,8.08,-28.33,absolute decoupling
+AUS,14.35,-25.21,absolute decoupling
+USA,26.59,-23.66,absolute decoupling
+ZAF,-4.01,-22.48,no income growth
+JPN,14.01,-17.48,absolute decoupling
+CAN,9.47,-15.26,absolute decoupling
+MEX,9.53,-13.35,absolute decoupling
+SAU,15.08,-8.96,absolute decoupling
+KOR,39.16,-8.14,absolute decoupling
+ARG,-4.58,-6.61,no income growth
+BRA,8.8,2.08,relative decoupling
+RUS,26.7,14.36,relative decoupling
+TUR,81.7,26.04,relative decoupling
+CHN,127.58,36.84,relative decoupling
+IND,91.62,56.23,relative decoupling
+IDN,63.54,59.05,relative decoupling
